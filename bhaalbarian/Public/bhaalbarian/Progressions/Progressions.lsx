@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="0" build="71"/>
+    <region id="Progressions">
+        <node id="root">
+            <children>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ActionResource(Rage,1,0)"/>
+                    <attribute id="Level" type="uint8" value="3"/>
+                    <attribute id="Name" type="LSString" value="Barbarian"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="60bbcc97-5381-4898-bc15-908c072895de"/>
+                    <attribute id="UUID" type="guid" value="0d4a6b4b-8162-414b-81ef-1838e36e778a"/>
+                    <children>
+                        <node id="SubClasses">
+                            <children>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid" value="2e585948-d775-451d-b58b-15b75321d11e"/>
+                                </node>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid" value="32eee7d8-1b2f-4de5-b9ee-78fbd286c6ef"/>
+                                </node>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid" value="d6bf00fc-3518-4d63-ba8b-03532c1abc4d"/>
+                                </node>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid" value="728a726d-8df0-48af-aedf-09ec5a14d92c"/>
+                                </node>
+                            </children>
+                        </node>
+                    </children>
+                </node>
+				<node id="Progression"> PathOfTheStormHerald 1
+                    <attribute id="Level" type="uint8" value="1"/>
+                    <attribute id="Name" type="LSString" value="PathOfTheStormHerald"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="b11dcb99-712b-417a-8e69-891c47f2ddc2"/>
+                    <attribute id="UUID" type="guid" value="31f8db1f-27ee-4590-a1e7-011efe60cf71"/>
+                </node>
+                <node id="Progression"> PathOfTheStormHerald 2
+                    <attribute id="Level" type="uint8" value="2"/>
+                    <attribute id="Name" type="LSString" value="PathOfTheStormHerald"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="b11dcb99-712b-417a-8e69-891c47f2ddc2"/>
+                    <attribute id="UUID" type="guid" value="6134955c-cdb1-453a-9b67-53d12013e01e"/>
+                </node>
+                <node id="Progression"> PathOfTheStormHerald 3
+                    <attribute id="Level" type="uint8" value="3"/>
+                    <attribute id="Name" type="LSString" value="PathOfTheStormHerald"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value="NIT_StormAura;NIT_StormAura_Remover"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(91a2e581-4b5f-412b-bf32-33b5969794fa,1,0,,,,AlwaysPrepared)"/>
+                    <attribute id="TableUUID" type="guid" value="b11dcb99-712b-417a-8e69-891c47f2ddc2"/>
+                    <attribute id="UUID" type="guid" value="14906789-facf-4b1e-ae59-d8618c86e748"/>
+                </node>
+                <node id="Progression"> PathOfTheStormHerald 5
+                    <attribute id="Level" type="uint8" value="5"/>
+                    <attribute id="Name" type="LSString" value="PathOfTheStormHerald"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="b11dcb99-712b-417a-8e69-891c47f2ddc2"/>
+                    <attribute id="UUID" type="guid" value="0562ef2f-5b5c-4c00-84a0-f989326da9f9"/>
+                </node>
+                <node id="Progression"> PathOfTheStormHerald 6
+                    <attribute id="Level" type="uint8" value="6"/>
+                    <attribute id="Name" type="LSString" value="PathOfTheStormHerald"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value="NIT_StormSoul;NIT_StormSoul_Remover"/>
+                    <attribute id="TableUUID" type="guid" value="b11dcb99-712b-417a-8e69-891c47f2ddc2"/>
+                    <attribute id="UUID" type="guid" value="ea02afdd-7762-44ad-af61-867172d6aefe"/>
+                </node>
+                <node id="Progression"> PathOfTheStormHerald 7
+                    <attribute id="Level" type="uint8" value="7"/>
+                    <attribute id="Name" type="LSString" value="PathOfTheStormHerald"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="b11dcb99-712b-417a-8e69-891c47f2ddc2"/>
+                    <attribute id="UUID" type="guid" value="0bc44942-14cd-4e02-9008-d21284ecfe6d"/>
+                </node>
+                <node id="Progression"> PathOfTheStormHerald 8
+                    <attribute id="Level" type="uint8" value="8"/>
+                    <attribute id="Name" type="LSString" value="PathOfTheStormHerald"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="b11dcb99-712b-417a-8e69-891c47f2ddc2"/>
+                    <attribute id="UUID" type="guid" value="fd14fa02-b54d-4528-be60-07bc7f33291b"/>
+                </node>
+                <node id="Progression"> PathOfTheStormHerald 9
+                    <attribute id="Level" type="uint8" value="9"/>
+                    <attribute id="Name" type="LSString" value="PathOfTheStormHerald"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="b11dcb99-712b-417a-8e69-891c47f2ddc2"/>
+                    <attribute id="UUID" type="guid" value="03dbd191-4f82-4342-91f5-2ab72d25f89e"/>
+                </node>
+                <node id="Progression"> PathOfTheStormHerald 10
+                    <attribute id="Level" type="uint8" value="10"/>
+                    <attribute id="Name" type="LSString" value="PathOfTheStormHerald"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value="NIT_SharedStorm"/>
+                    <attribute id="TableUUID" type="guid" value="b11dcb99-712b-417a-8e69-891c47f2ddc2"/>
+                    <attribute id="UUID" type="guid" value="8f85907f-7b79-4f1a-b1a3-62c9580491ce"/>
+                </node>
+                <node id="Progression"> PathOfTheStormHerald 11
+                    <attribute id="Level" type="uint8" value="11"/>
+                    <attribute id="Name" type="LSString" value="PathOfTheStormHerald"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="b11dcb99-712b-417a-8e69-891c47f2ddc2"/>
+                    <attribute id="UUID" type="guid" value="723f406d-62bb-4c21-8d40-cc6c06a8bf34"/>
+                </node>
+                <node id="Progression"> PathOfTheStormHerald 12
+                    <attribute id="Level" type="uint8" value="12"/>
+                    <attribute id="Name" type="LSString" value="PathOfTheStormHerald"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value="NIT_RagingStorm_Passive"/>
+                    <attribute id="TableUUID" type="guid" value="b11dcb99-712b-417a-8e69-891c47f2ddc2"/>
+                    <attribute id="UUID" type="guid" value="6ad65dbe-4c53-46df-bf9b-85ded9661154"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

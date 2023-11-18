@@ -1,0 +1,7 @@
+
+{
+    "RequiredVersion": 4,
+    "ModTable": "bhaalbarian",
+    "FeatureFlags": ["Lua"]
+}
+                    

@@ -1,0 +1,13 @@
+new entry "LOW_Cazador_SpawnBuff_Astarion_Passive"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "StatsFunctorContext" "OnSurfaceEnter"
+data "Conditions" "InSurface('SurfaceBlood',context.Source)"
+data "StatsFunctors" "RegainHitPoints(2d4);GROUND:CreateSurface(1,-1,None)"
+
+new entry "MAG_TheClover_Rearrangement_Passive"
+type "PassiveData"
+data "DisplayName" "h15c46cc7g164fg41ffga02ege59329268c58;2"
+data "Description" "h6984b8aagbb23g46b3g8c29g1a65974e4bcb;4"
+data "DescriptionParams" "2;19;18"
+data "Boosts" "ReduceCriticalAttackThreshold(1);IF(AttackingWithMeleeWeapon(context.Source)):Reroll(Damage,2,true)"
