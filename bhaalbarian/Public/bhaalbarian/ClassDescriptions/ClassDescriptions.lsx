@@ -9,13 +9,13 @@
                     <attribute id="Description" type="TranslatedString" handle="hf922abcfgb27dg4e38ga879g419b23b374cc" version="9"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hd736dc8cgf832g44dbg92fag23cd9dc6bd87" version="1"/>
                     <attribute id="LearningStrategy" type="uint8" value="1"/>
-                    <attribute id="Name" type="FixedString" value="PathOfTheStormHerald"/>
+                    <attribute id="Name" type="FixedString" value="Hearteater"/>
                     <attribute id="ParentGuid" type="guid" value="d8cadb42-0ff9-4049-afaf-e5d78d06a399"/>
                     <attribute id="PrimaryAbility" type="uint8" value="1"/>
-                    <attribute id="ProgressionTableUUID" type="guid" value="b11dcb99-712b-417a-8e69-891c47f2ddc2"/>
+                    <attribute id="ProgressionTableUUID" type="guid" value="7466a2f2-fef3-47cd-a1e4-519aa5e0186e"/>
                     <attribute id="SoundClassType" type="FixedString" value="Barbarian"/>
                     <attribute id="SpellCastingAbility" type="uint8" value="6"/>
-                    <attribute id="UUID" type="guid" value="728a726d-8df0-48af-aedf-09ec5a14d92c"/>
+                    <attribute id="UUID" type="guid" value="6eba49be-a5c7-431f-857d-b4576d453e56"/>
                 </node>
             </children>
         </node>
