@@ -35,82 +35,67 @@
                     <attribute id="Name" type="LSString" value="Hearteater"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="TableUUID" type="guid" value="7466a2f2-fef3-47cd-a1e4-519aa5e0186e"/>
-                    <attribute id="UUID" type="guid" value="31f8db1f-27ee-4590-a1e7-011efe60cf71"/>
-                </node>
-                <node id="Progression"> Hearteater 2
-                    <attribute id="Level" type="uint8" value="2"/>
-                    <attribute id="Name" type="LSString" value="Hearteater"/>
-                    <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="TableUUID" type="guid" value="7466a2f2-fef3-47cd-a1e4-519aa5e0186e"/>
-                    <attribute id="UUID" type="guid" value="6134955c-cdb1-453a-9b67-53d12013e01e"/>
+                    <attribute id="UUID" type="guid" value="94dcd468-bf05-47e8-baec-de2aa7c53ca0"/>
                 </node>
                 <node id="Progression"> Hearteater 3
                     <attribute id="Level" type="uint8" value="3"/>
                     <attribute id="Name" type="LSString" value="Hearteater"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="PassivesAdded" type="LSString" value="NIT_StormAura;NIT_StormAura_Remover"/>
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(91a2e581-4b5f-412b-bf32-33b5969794fa,1,0,,,,AlwaysPrepared)"/>
+                    <attribute id="PassivesRemoved" type="LSString" value="UnarmouredDefence_Barbarian"/>
+                    <attribute id="PassivesAdded" type="LSString" value="KHB_AllClottedUp_Passive;KHB_Unlock_RaggedClaws_Passive;KHB_GiveMeYourBloodlv3_Passive;KHB_BloodVitality_Passive"/>
                     <attribute id="TableUUID" type="guid" value="7466a2f2-fef3-47cd-a1e4-519aa5e0186e"/>
-                    <attribute id="UUID" type="guid" value="14906789-facf-4b1e-ae59-d8618c86e748"/>
+                    <attribute id="UUID" type="guid" value="843ec01a-941d-4aeb-a14e-d65fdc4f1fe5"/>
                 </node>
-                <node id="Progression"> Hearteater 5
-                    <attribute id="Level" type="uint8" value="5"/>
+                <node id="Progression"> Hearteater 4
+                    <attribute id="Level" type="uint8" value="4"/>
                     <attribute id="Name" type="LSString" value="Hearteater"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="TableUUID" type="guid" value="7466a2f2-fef3-47cd-a1e4-519aa5e0186e"/>
-                    <attribute id="UUID" type="guid" value="0562ef2f-5b5c-4c00-84a0-f989326da9f9"/>
+                    <attribute id="UUID" type="guid" value="22ad89f0-74bb-453d-b1bc-7a46acde60ba"/>
                 </node>
                 <node id="Progression"> Hearteater 6
                     <attribute id="Level" type="uint8" value="6"/>
                     <attribute id="Name" type="LSString" value="Hearteater"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="PassivesAdded" type="LSString" value="NIT_StormSoul;NIT_StormSoul_Remover"/>
+                    <attribute id="PassivesRemoved" type="LSString" value="KHB_GiveMeYourBloodlv3_Passive"/>
+                    <attribute id="PassivesAdded" type="LSString" value="KHB_GiveMeYourBloodlv6_Passive"/>
                     <attribute id="TableUUID" type="guid" value="7466a2f2-fef3-47cd-a1e4-519aa5e0186e"/>
-                    <attribute id="UUID" type="guid" value="ea02afdd-7762-44ad-af61-867172d6aefe"/>
-                </node>
-                <node id="Progression"> Hearteater 7
-                    <attribute id="Level" type="uint8" value="7"/>
-                    <attribute id="Name" type="LSString" value="Hearteater"/>
-                    <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="TableUUID" type="guid" value="7466a2f2-fef3-47cd-a1e4-519aa5e0186e"/>
-                    <attribute id="UUID" type="guid" value="0bc44942-14cd-4e02-9008-d21284ecfe6d"/>
+                    <attribute id="UUID" type="guid" value="fd96830e-61af-4814-a421-58a0aed9e137"/>
                 </node>
                 <node id="Progression"> Hearteater 8
                     <attribute id="Level" type="uint8" value="8"/>
                     <attribute id="Name" type="LSString" value="Hearteater"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="TableUUID" type="guid" value="7466a2f2-fef3-47cd-a1e4-519aa5e0186e"/>
-                    <attribute id="UUID" type="guid" value="fd14fa02-b54d-4528-be60-07bc7f33291b"/>
+                    <attribute id="TableUUID" type="guid" value="7466a2f2-fef3-47cd-a1e4-519aa5e0186e"/> 
+                    <attribute id="PassivesAdded" type="LSString" value="UNI_DarkUrge_Stealth_Expertise_Passive"/>
+                    <attribute id="UUID" type="guid" value="2177abb7-21bf-45b3-8308-789dd2f52da8"/>
                 </node>
                 <node id="Progression"> Hearteater 9
                     <attribute id="Level" type="uint8" value="9"/>
                     <attribute id="Name" type="LSString" value="Hearteater"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesRemoved" type="LSString" value="KHB_GiveMeYourBloodlv6_Passive"/>
+                    <attribute id="PassivesAdded" type="LSString" value="KHB_GiveMeYourBloodlv9_Passive"/>
                     <attribute id="TableUUID" type="guid" value="7466a2f2-fef3-47cd-a1e4-519aa5e0186e"/>
-                    <attribute id="UUID" type="guid" value="03dbd191-4f82-4342-91f5-2ab72d25f89e"/>
+                    <attribute id="UUID" type="guid" value="445f6aa6-540a-4a34-8b2d-7f8a7ce3e143"/>
                 </node>
                 <node id="Progression"> Hearteater 10
                     <attribute id="Level" type="uint8" value="10"/>
                     <attribute id="Name" type="LSString" value="Hearteater"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="PassivesAdded" type="LSString" value="NIT_SharedStorm"/>
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="7466a2f2-fef3-47cd-a1e4-519aa5e0186e"/>
-                    <attribute id="UUID" type="guid" value="8f85907f-7b79-4f1a-b1a3-62c9580491ce"/>
-                </node>
-                <node id="Progression"> Hearteater 11
-                    <attribute id="Level" type="uint8" value="11"/>
-                    <attribute id="Name" type="LSString" value="Hearteater"/>
-                    <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="TableUUID" type="guid" value="7466a2f2-fef3-47cd-a1e4-519aa5e0186e"/>
-                    <attribute id="UUID" type="guid" value="723f406d-62bb-4c21-8d40-cc6c06a8bf34"/>
+                    <attribute id="UUID" type="guid" value="07487186-423b-452c-afea-04d158ec9e9e"/>
                 </node>
                 <node id="Progression"> Hearteater 12
                     <attribute id="Level" type="uint8" value="12"/>
                     <attribute id="Name" type="LSString" value="Hearteater"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="PassivesAdded" type="LSString" value="NIT_RagingStorm_Passive"/>
+                    <attribute id="PassivesRemoved" type="LSString" value="KHB_GiveMeYourBloodlv9_Passive"/>
+                    <attribute id="PassivesAdded" type="LSString" value="KHB_GiveMeYourBloodlv12_Passive;KHB_Unlock_RaggedierClaws_Passive;"/>
                     <attribute id="TableUUID" type="guid" value="7466a2f2-fef3-47cd-a1e4-519aa5e0186e"/>
-                    <attribute id="UUID" type="guid" value="6ad65dbe-4c53-46df-bf9b-85ded9661154"/>
+                    <attribute id="UUID" type="guid" value="0936ad3f-df96-41a6-a112-185bda4f9471"/>
                 </node>
             </children>
         </node>

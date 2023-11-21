@@ -5,8 +5,8 @@
         <node id="root">
             <children>
                 <node id="ProgressionDescription">
-                    <attribute id="Description" type="TranslatedString" handle="hf922abcfgb27dg4e38ga879g419b23b374cc" version="1"/> Subclass Description
-                    <attribute id="DisplayName" type="TranslatedString" handle="hd736dc8cgf832g44dbg92fag23cd9dc6bd87" version="1"/> Subclass Name
+                    <attribute id="Description" type="TranslatedString" handle="KHB_hearteaterPathDescription" version="1"/> Subclass Description
+                    <attribute id="DisplayName" type="TranslatedString" handle="KHB_hearteaterPathDisplayName" version="1"/> Subclass Name
                     <attribute id="Type" type="FixedString" value="Hearteater"/>
 					<attribute id="ProgressionTableId" type="guid" value="7466a2f2-fef3-47cd-a1e4-519aa5e0186e"/>
                     <attribute id="UUID" type="guid" value="96c542d4-b778-49ae-a982-43b347ad99cb"/>

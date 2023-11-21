@@ -1,2 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?><contentList>
+<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+    <!--Subclass Descriptions-->
+    <content contentuid="KHB_hearteaterPathDisplayName" version="1">Path of the Hearteater</content>
+    <content contentuid="KHB_hearteaterPathDescription" version="1">Eat your heart out, Sceleritas Fel.</content>
+
+    <!--Passives-->
+    <content contentuid="KHB_GiveMeYourBlood_DisplayName" version="1">Give Me Your Blood</content>
+    <content contentuid="KHB_GiveMeYourBlood_Description" version="1">Your desire for the blood of your enemies drives you to strike their weak points more often. Your Critical hit threshold is reduced by [1].</content>
+    <content contentuid="KHB_AllClottedUp_DisplayName" version="1">All Clotted Up</content>
+    <content contentuid="KHB_AllClottedUp_Description" version="1">Blood fills your pores and seeps between the layers of your skin, then clots up. While not wearing armor, your AC becomes [1] plus your Strength and Constitution modifiers.</content>
+    <content contentuid="KHB_BloodVitality_DisplayName" version="1">Blood Vitality</content>
+    <content contentuid="KHB_BloodVitality_Description" version="1">You get some freaky joy from blood between your toes. When you enter a blood surface, you soak it up and regain hit points equal to 2d4 plus your Strength modifier.</content>
+    <content contentuid="KHB_SanguineCritical_DisplayName" version="1">Sanguine Critical</content>
+    <content contentuid="KHB_SanguineCritical_Description" version="1">When you crit, your target gains two stacks of Arterial Puncture.</content>
+    <content contentuid="KHB_RaggedierClaws_DisplayName" version="1">Raggedier Claws</content>
+    <content contentuid="KHB_RaggedierClaws_Description" version="1">Your nails muster(d) the strength to pierce enemy resistance and immunity to Slashing damage.</content>
+
+    <!--Attacks-->
+    <content contentuid="KHB_RaggedClaws_DisplayName" version="1">Ragged Claws</content>
+    <content contentuid="KHB_RaggedClaws_Description" version="1">Your nails have grown to relish blood and violence as much as you do. Make an attack with your little homegrown meatcarvers. Weirdo. I bet you think pickles are good when you chop them up and use them as a topping.</content>
 </contentList>
