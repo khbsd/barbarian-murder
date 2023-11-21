@@ -16,7 +16,12 @@
     <content contentuid="KHB_RaggedierClaws_DisplayName" version="1">Raggedier Claws</content>
     <content contentuid="KHB_RaggedierClaws_Description" version="1">Your nails muster(d) the strength to pierce enemy resistance and immunity to Slashing damage.</content>
 
+    <!--Statuses-->
+    <content contentuid="KHB_ArterialRupture_DisplayName" version="1">Arterial Rupture</content>
+    <content contentuid="KHB_ArterialRupture_DisplayName" version="1">lottem slashin damage</content>
+
     <!--Attacks-->
     <content contentuid="KHB_RaggedClaws_DisplayName" version="1">Ragged Claws</content>
     <content contentuid="KHB_RaggedClaws_Description" version="1">Your nails have grown to relish blood and violence as much as you do. Make an attack with your little homegrown meatcarvers. Weirdo. I bet you think pickles are good when you chop them up and use them as a topping.</content>
+
 </contentList>
