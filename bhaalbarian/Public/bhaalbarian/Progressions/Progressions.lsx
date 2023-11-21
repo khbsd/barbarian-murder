@@ -67,7 +67,7 @@
                     <attribute id="Name" type="LSString" value="Hearteater"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="TableUUID" type="guid" value="7466a2f2-fef3-47cd-a1e4-519aa5e0186e"/> 
-                    <attribute id="PassivesAdded" type="LSString" value="UNI_DarkUrge_Stealth_Expertise_Passive"/>
+                    <attribute id="PassivesAdded" type="LSString" value="UNI_DarkUrge_Stealth_Expertise_Passive;KHB_Unlock_SlayerForm_Passive"/>
                     <attribute id="UUID" type="guid" value="2177abb7-21bf-45b3-8308-789dd2f52da8"/>
                 </node>
                 <node id="Progression"> Hearteater 9

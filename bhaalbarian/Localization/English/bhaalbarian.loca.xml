@@ -18,7 +18,7 @@
 
     <!--Statuses-->
     <content contentuid="KHB_ArterialRupture_DisplayName" version="1">Arterial Rupture</content>
-    <content contentuid="KHB_ArterialRupture_DisplayName" version="1">lottem slashin damage</content>
+    <content contentuid="KHB_ArterialRupture_Description" version="1">lottem slashin damage</content>
 
     <!--Attacks-->
     <content contentuid="KHB_RaggedClaws_DisplayName" version="1">Ragged Claws</content>
