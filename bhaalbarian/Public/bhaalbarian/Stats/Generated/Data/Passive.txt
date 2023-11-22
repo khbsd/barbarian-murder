@@ -61,7 +61,7 @@ data "DisplayName" "KHB_SlayerForm_DisplayName;2"
 data "Description" "KHB_SlayerForm_Description;4"
 data "Icon" "Action_DarkUrge"
 data "Properties" "Hidden"
-data "Boosts" "UnlockSpell(Shout_DarkUrge_Slayer);UnlockSpell(Shout_DarkUrge_Dismiss)"
+data "Boosts" "UnlockSpell(KHB_Shout_HearteaterSlayer);UnlockSpell(KHB_Shout_HearteaterSlayer_Dismiss)"
 
 new entry "KHB_GiveMeYourBloodlv3_Passive"
 type "PassiveData"
