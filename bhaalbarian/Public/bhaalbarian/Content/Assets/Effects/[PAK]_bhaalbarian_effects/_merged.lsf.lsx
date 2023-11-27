@@ -10,13 +10,13 @@
                     <attribute id="Center" type="fvec3" value="0 1 0" />
                     <attribute id="CullingDistance" type="float" value="0" />
                     <attribute id="Duration" type="float" value="1.5" />
-                    <attribute id="EffectName" type="FixedString" value="VFX_Status_Mag_Lightning_Debuff_OnApplication_BodyFX_01" />
-                    <attribute id="ID" type="FixedString" value="b336b4ee-67f9-cf7b-1b5b-68905d115317" />
+                    <attribute id="EffectName" type="FixedString" value="KHB_VFX_SlayerTransform_LightningCharges.lsfx" />
+                    <attribute id="ID" type="FixedString" value="424bf50b-d90a-46a6-bb74-f3798a739220" />
                     <attribute id="InterruptionMode" type="uint32" value="2" />
                     <attribute id="Looping" type="bool" value="False" />
-                    <attribute id="Name" type="LSString" value="VFX_Status_Mag_Lightning_Debuff_OnApplication_BodyFX_01" />
+                    <attribute id="Name" type="LSString" value="KHB_VFX_SlayerTransform_LightningCharges.lsfx" />
                     <attribute id="Radius" type="float" value="2" />
-                    <attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Effects/Effects_Banks/Status/VFX_Status_Mag_Lightning_Debuff_OnApplication_BodyFX_01.lsfx" />
+                    <attribute id="SourceFile" type="LSString" value="Public/bhaalbarian/Assets/Effects/Effects_Banks/bhaalbarian_effects/KHB_VFX_SlayerTransform_LightningCharges.lsfx" />
                     <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209006" />
                     <children>
                         <node id="Dependencies">
@@ -49,13 +49,13 @@
 					<attribute id="Center" type="fvec3" value="0 0 -5" />
 					<attribute id="CullingDistance" type="float" value="0" />
 					<attribute id="Duration" type="float" value="2" />
-					<attribute id="EffectName" type="FixedString" value="VFX_Status_WitchBolt_Beam_01" />
-					<attribute id="ID" type="FixedString" value="19801ed3-a022-d9a5-8b6b-54dd55e87f7d" />
+					<attribute id="EffectName" type="FixedString" value="KHB_VFX_SlayerTransform_LightningBolt.lsfx" />
+					<attribute id="ID" type="FixedString" value="922d6a6a-bf15-4f79-ab60-4a5143d3c9ec" />
 					<attribute id="InterruptionMode" type="uint32" value="0" />
 					<attribute id="Looping" type="bool" value="True" />
-					<attribute id="Name" type="LSString" value="VFX_Status_WitchBolt_Beam_01" />
+					<attribute id="Name" type="LSString" value="KHB_VFX_SlayerTransform_LightningBolt.lsfx" />
 					<attribute id="Radius" type="float" value="8.660254" />
-					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Effects/Effects_Banks/Status/VFX_Status_WitchBolt_Beam_01.lsfx" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Effects/Effects_Banks/bhaalbarian_effects/KHB_VFX_SlayerTransform_LightningBolt.lsfx" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209006" />
 					<children>
 						<node id="Dependencies">
@@ -77,6 +77,88 @@
 								</node>
 								<node id="DependentResource">
 									<attribute id="Object" type="FixedString" value="94b29bf3-0b99-3d5c-2d0b-2410e201aabb" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+                <node id="Resource">
+					<attribute id="BoundsMax" type="fvec3" value="5 6.5 5" />
+					<attribute id="BoundsMin" type="fvec3" value="-5 -3.5 -5" />
+					<attribute id="Center" type="fvec3" value="0 1.5 0" />
+					<attribute id="CullingDistance" type="float" value="0" />
+					<attribute id="Duration" type="float" value="7" />
+					<attribute id="EffectName" type="FixedString" value="KHB_VFX_SlayerTransform_HearteaterSlayer" />
+					<attribute id="ID" type="FixedString" value="15c88cd5-0860-577a-9967-fdefa2af303e" />
+					<attribute id="Initialized" type="bool" value="True" />
+					<attribute id="InterruptionMode" type="uint32" value="2" />
+					<attribute id="Looping" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="KHB_VFX_SlayerTransform_HearteaterSlayer" />
+					<attribute id="Radius" type="float" value="8.660254" />
+					<attribute id="SourceFile" type="LSString" value="Public/Shared/Assets/Effects/Effects_Banks/bhaalbarian_effects/KHB_VFX_SlayerTransform_HearteaterSlayer.lsfx" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725660" />
+					<children>
+						<node id="Dependencies">
+							<children>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="46bb3455-8496-da9a-d233-73fddf1993ba" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="bd8684c4-cc9b-7289-c283-c788c6e82c18" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="f2791a68-889e-79c5-a99d-722cef57da52" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="9c00fe7a-4cb6-db37-52ea-d55500e7c55f" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="4f5b525d-cdf7-1d04-2db5-d1f6e28c013b" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="5874a588-b4ad-4a78-a823-8f5f739555be" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="7f529093-83ec-ea78-2d7d-71bb5fa5d73c" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="0bf8c938-b123-c868-ba0e-ae08ec12dc5a" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="5e1b3b30-8ca9-ea66-5346-d2a89dbf79fc" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="94775888-01be-93a5-6428-03cb35f76705" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="f7fc084b-d098-0d9a-8033-1cb61c3beb37" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="93718386-0ff8-e67a-b28a-902f22a1dfc1" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="4b32aed8-01c8-5ab2-adcc-2b5fad7712cf" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="ab6c61b4-df3c-0e15-c111-bb676009699d" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="b0cbff55-33e1-0fb0-986b-ded72865debe" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="6dcb2522-3a2e-7c6c-08af-b7011c5cd907" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="9ffbcedb-7417-0915-bbc1-d39a3f677288" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="09507f13-8b48-c991-2f7e-46e2958f3344" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="4e9073d3-c903-9db0-76d1-169aaf33b43f" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="2af916b7-f20c-c1df-779c-5d70ec6eae16" />
 								</node>
 							</children>
 						</node>

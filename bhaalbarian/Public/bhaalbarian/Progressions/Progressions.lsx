@@ -59,7 +59,7 @@
                     <attribute id="Name" type="LSString" value="Hearteater"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="PassivesRemoved" type="LSString" value="KHB_GiveMeYourBloodlv3_Passive"/>
-                    <attribute id="PassivesAdded" type="LSString" value="KHB_GiveMeYourBloodlv6_Passive;KHB_SanguineCritical_Passive"/>
+                    <attribute id="PassivesAdded" type="LSString" value="KHB_GiveMeYourBloodlv6_Passive;KHB_SanguineCritical_Passive;KHB_Unlock_SlayerForm_Passive"/>
                     <attribute id="Boosts" type="LSString" value="IncreaseMaxHP(20)"/>
                     <attribute id="TableUUID" type="guid" value="7466a2f2-fef3-47cd-a1e4-519aa5e0186e"/>
                     <attribute id="UUID" type="guid" value="fd96830e-61af-4814-a421-58a0aed9e137"/>
@@ -69,7 +69,7 @@
                     <attribute id="Name" type="LSString" value="Hearteater"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="TableUUID" type="guid" value="7466a2f2-fef3-47cd-a1e4-519aa5e0186e"/> 
-                    <attribute id="PassivesAdded" type="LSString" value="UNI_DarkUrge_Stealth_Expertise_Passive;KHB_Unlock_SlayerForm_Passive"/>
+                    <attribute id="PassivesAdded" type="LSString" value="UNI_DarkUrge_Stealth_Expertise_Passive"/>
                     <attribute id="UUID" type="guid" value="2177abb7-21bf-45b3-8308-789dd2f52da8"/>
                 </node>
                 <node id="Progression"> Hearteater 9
