@@ -69,50 +69,13 @@
                         <node id="ActionsCapabilities">
                             <children>
                                 <node id="ActionCapabilities">
-                                    <attribute id="Name" type="LSString" value="RitualSpells"/>
-                                </node>
-                                <node id="ActionCapabilities">
-                                    <attribute id="Name" type="LSString" value="Pickpocketing"/>
+                                    <attribute id="Name" type="LSString" value="Disarming"/>
                                 </node>
                                 <node id="ActionCapabilities">
                                     <attribute id="Name" type="LSString" value="Lockpicking"/>
                                 </node>
                                 <node id="ActionCapabilities">
-                                    <attribute id="Name" type="LSString" value="Disarming"/>
-                                </node>
-                                <node id="ActionCapabilities">
-                                    <attribute id="Name" type="LSString" value="WorldActions"/>
-                                </node>
-                                <node id="ActionCapabilities">
-                                    <attribute id="Name" type="LSString" value="Attack"/>
-                                </node>
-                                <node id="ActionCapabilities">
-                                    <attribute id="Name" type="LSString" value="CastSpell"/>
-                                </node>
-                            </children>
-                        </node>
-                        <node id="InteractionsCapabilities">
-                            <children>
-                                <node id="InteractionsCapabilities">
-                                    <attribute id="Name" type="LSString" value="UseDoors"/>
-                                </node>
-                                <node id="InteractionsCapabilities">
-                                    <attribute id="Name" type="LSString" value="UseLadders"/>
-                                </node>
-                                <node id="InteractionsCapabilities">
-                                    <attribute id="Name" type="LSString" value="Containers"/>
-                                </node>
-                                <node id="InteractionsCapabilities">
-                                    <attribute id="Name" type="LSString" value="Pickup"/>
-                                </node>
-                                <node id="InteractionsCapabilities">
-                                    <attribute id="Name" type="LSString" value="ConsumeItems"/>
-                                </node>
-                                <node id="InteractionsCapabilities">
-                                    <attribute id="Name" type="LSString" value="BasicItemInteractions"/>
-                                </node>
-                                <node id="InteractionsCapabilities">
-                                    <attribute id="Name" type="LSString" value="MoveObjects"/>
+                                    <attribute id="Name" type="LSString" value="Pickpocketing"/>
                                 </node>
                             </children>
                         </node>

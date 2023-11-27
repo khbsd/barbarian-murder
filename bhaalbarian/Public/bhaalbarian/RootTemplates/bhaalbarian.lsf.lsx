@@ -5,6 +5,186 @@
         <node id="Templates">
             <children>
                 <node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="hf8e7e264gc220g45a3gb675g6b8a6f85c1f3" version="1" />
+					<attribute id="Icon" type="FixedString" value="77fa4bed-7953-6676-e688-a42b59e58e7f-_(Icon_Slayer_Player)" />
+					<attribute id="LevelName" type="FixedString" value="12" />
+					<attribute id="MapKey" type="FixedString" value="68cff763-0e2c-486d-a65c-7d84246a9db7" />
+					<attribute id="Name" type="LSString" value="KHB_HearteaterSlayer_12" />
+					<attribute id="ParentTemplateId" type="FixedString" value="7461874e-e42d-409b-9ce8-dadaddf45d03" />
+					<attribute id="Stats" type="FixedString" value="KHB_HearteaterSlayer_Stats_12" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
+					<children>
+						<node id="LocomotionParams" />
+						<node id="SkillList">
+							<children>
+								<node id="Skill">
+									<attribute id="AIFlags" type="uint16" value="0" />
+									<attribute id="FallbackStartRound" type="int32" value="-1" />
+									<attribute id="LearningStrategy" type="uint8" value="0" />
+									<attribute id="MinimumImpact" type="int32" value="0" />
+									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
+									<attribute id="ScoreModifier" type="float" value="1" />
+									<attribute id="Skill" type="FixedString" value="Target_Slam_Slayer_10" />
+									<attribute id="SpellCastingAbility" type="uint8" value="0" />
+									<attribute id="StartRound" type="int32" value="0" />
+									<children>
+										<node id="SourceConditions">
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+										<node id="TargetConditions">
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+									</children>
+								</node>
+								<node id="Skill">
+									<attribute id="AIFlags" type="uint16" value="0" />
+									<attribute id="FallbackStartRound" type="int32" value="-1" />
+									<attribute id="LearningStrategy" type="uint8" value="0" />
+									<attribute id="MinimumImpact" type="int32" value="0" />
+									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
+									<attribute id="ScoreModifier" type="float" value="1" />
+									<attribute id="Skill" type="FixedString" value="Target_Multiattack_Slayer" />
+									<attribute id="SpellCastingAbility" type="uint8" value="0" />
+									<attribute id="StartRound" type="int32" value="0" />
+									<children>
+										<node id="SourceConditions">
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+										<node id="TargetConditions">
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+									</children>
+								</node>
+								<node id="Skill">
+									<attribute id="AIFlags" type="uint16" value="0" />
+									<attribute id="FallbackStartRound" type="int32" value="-1" />
+									<attribute id="LearningStrategy" type="uint8" value="0" />
+									<attribute id="MinimumImpact" type="int32" value="0" />
+									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
+									<attribute id="ScoreModifier" type="float" value="1" />
+									<attribute id="Skill" type="FixedString" value="Projectile_TerrifyingLunge_Slayer_10" />
+									<attribute id="SpellCastingAbility" type="uint8" value="0" />
+									<attribute id="StartRound" type="int32" value="0" />
+									<children>
+										<node id="SourceConditions">
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+										<node id="TargetConditions">
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+									</children>
+								</node>
+								<node id="Skill">
+									<attribute id="AIFlags" type="uint16" value="0" />
+									<attribute id="FallbackStartRound" type="int32" value="-1" />
+									<attribute id="LearningStrategy" type="uint8" value="0" />
+									<attribute id="MinimumImpact" type="int32" value="0" />
+									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
+									<attribute id="ScoreModifier" type="float" value="1" />
+									<attribute id="Skill" type="FixedString" value="Target_BloodBath_Slayer_10" />
+									<attribute id="SpellCastingAbility" type="uint8" value="0" />
+									<attribute id="StartRound" type="int32" value="0" />
+									<children>
+										<node id="SourceConditions">
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+										<node id="TargetConditions">
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+									</children>
+								</node>
+								<node id="Skill">
+									<attribute id="AIFlags" type="uint16" value="0" />
+									<attribute id="FallbackStartRound" type="int32" value="-1" />
+									<attribute id="LearningStrategy" type="uint8" value="0" />
+									<attribute id="MinimumImpact" type="int32" value="0" />
+									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
+									<attribute id="ScoreModifier" type="float" value="1" />
+									<attribute id="Skill" type="FixedString" value="Shout_Sacrifice_Slayer" />
+									<attribute id="SpellCastingAbility" type="uint8" value="0" />
+									<attribute id="StartRound" type="int32" value="0" />
+									<children>
+										<node id="SourceConditions">
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+										<node id="TargetConditions">
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+									</children>
+								</node>
+                                <node id="Skill">
+									<attribute id="AIFlags" type="uint16" value="0" />
+									<attribute id="FallbackStartRound" type="int32" value="-1" />
+									<attribute id="LearningStrategy" type="uint8" value="0" />
+									<attribute id="MinimumImpact" type="int32" value="0" />
+									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
+									<attribute id="ScoreModifier" type="float" value="1" />
+									<attribute id="Skill" type="FixedString" value="KHB_SlayerThrow" />
+									<attribute id="SpellCastingAbility" type="uint8" value="0" />
+									<attribute id="StartRound" type="int32" value="0" />
+									<children>
+										<node id="SourceConditions">
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+										<node id="TargetConditions">
+											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+											<children>
+												<node id="Tags" />
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+                <node id="GameObjects">
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="77fa4bed-7953-6676-e688-a42b59e58e7f" />
 					<attribute id="DisplayName" type="TranslatedString" handle="ls::TranslatedStringRepository::s_HandleUnknown" version="0" />
 					<attribute id="GeneratePortrait" type="LSString" value="Icon_Slayer_Player" />
@@ -175,186 +355,6 @@
 									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
 									<attribute id="ScoreModifier" type="float" value="1" />
 									<attribute id="Skill" type="FixedString" value="Projectile_TerrifyingLunge_Slayer" />
-									<attribute id="SpellCastingAbility" type="uint8" value="0" />
-									<attribute id="StartRound" type="int32" value="0" />
-									<children>
-										<node id="SourceConditions">
-											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
-											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
-											<children>
-												<node id="Tags" />
-											</children>
-										</node>
-										<node id="TargetConditions">
-											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
-											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
-											<children>
-												<node id="Tags" />
-											</children>
-										</node>
-									</children>
-								</node>
-							</children>
-						</node>
-					</children>
-				</node>
-                <node id="GameObjects">
-					<attribute id="DisplayName" type="TranslatedString" handle="hf8e7e264gc220g45a3gb675g6b8a6f85c1f3" version="1" />
-					<attribute id="Icon" type="FixedString" value="77fa4bed-7953-6676-e688-a42b59e58e7f-_(Icon_Slayer_Player)" />
-					<attribute id="LevelName" type="FixedString" value="" />
-					<attribute id="MapKey" type="FixedString" value="68cff763-0e2c-486d-a65c-7d84246a9db7" />
-					<attribute id="Name" type="LSString" value="KHB_HearteaterSlayer_12" />
-					<attribute id="ParentTemplateId" type="FixedString" value="7461874e-e42d-409b-9ce8-dadaddf45d03" />
-					<attribute id="Stats" type="FixedString" value="KHB_HearteaterSlayer_Stats_12" />
-					<attribute id="Type" type="FixedString" value="character" />
-					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
-					<children>
-						<node id="LocomotionParams" />
-						<node id="SkillList">
-							<children>
-								<node id="Skill">
-									<attribute id="AIFlags" type="uint16" value="0" />
-									<attribute id="FallbackStartRound" type="int32" value="-1" />
-									<attribute id="LearningStrategy" type="uint8" value="0" />
-									<attribute id="MinimumImpact" type="int32" value="0" />
-									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
-									<attribute id="ScoreModifier" type="float" value="1" />
-									<attribute id="Skill" type="FixedString" value="Target_Slam_Slayer_10" />
-									<attribute id="SpellCastingAbility" type="uint8" value="0" />
-									<attribute id="StartRound" type="int32" value="0" />
-									<children>
-										<node id="SourceConditions">
-											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
-											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
-											<children>
-												<node id="Tags" />
-											</children>
-										</node>
-										<node id="TargetConditions">
-											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
-											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
-											<children>
-												<node id="Tags" />
-											</children>
-										</node>
-									</children>
-								</node>
-								<node id="Skill">
-									<attribute id="AIFlags" type="uint16" value="0" />
-									<attribute id="FallbackStartRound" type="int32" value="-1" />
-									<attribute id="LearningStrategy" type="uint8" value="0" />
-									<attribute id="MinimumImpact" type="int32" value="0" />
-									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
-									<attribute id="ScoreModifier" type="float" value="1" />
-									<attribute id="Skill" type="FixedString" value="Target_Multiattack_Slayer" />
-									<attribute id="SpellCastingAbility" type="uint8" value="0" />
-									<attribute id="StartRound" type="int32" value="0" />
-									<children>
-										<node id="SourceConditions">
-											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
-											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
-											<children>
-												<node id="Tags" />
-											</children>
-										</node>
-										<node id="TargetConditions">
-											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
-											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
-											<children>
-												<node id="Tags" />
-											</children>
-										</node>
-									</children>
-								</node>
-								<node id="Skill">
-									<attribute id="AIFlags" type="uint16" value="0" />
-									<attribute id="FallbackStartRound" type="int32" value="-1" />
-									<attribute id="LearningStrategy" type="uint8" value="0" />
-									<attribute id="MinimumImpact" type="int32" value="0" />
-									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
-									<attribute id="ScoreModifier" type="float" value="1" />
-									<attribute id="Skill" type="FixedString" value="Projectile_TerrifyingLunge_Slayer_10" />
-									<attribute id="SpellCastingAbility" type="uint8" value="0" />
-									<attribute id="StartRound" type="int32" value="0" />
-									<children>
-										<node id="SourceConditions">
-											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
-											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
-											<children>
-												<node id="Tags" />
-											</children>
-										</node>
-										<node id="TargetConditions">
-											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
-											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
-											<children>
-												<node id="Tags" />
-											</children>
-										</node>
-									</children>
-								</node>
-								<node id="Skill">
-									<attribute id="AIFlags" type="uint16" value="0" />
-									<attribute id="FallbackStartRound" type="int32" value="-1" />
-									<attribute id="LearningStrategy" type="uint8" value="0" />
-									<attribute id="MinimumImpact" type="int32" value="0" />
-									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
-									<attribute id="ScoreModifier" type="float" value="1" />
-									<attribute id="Skill" type="FixedString" value="Target_BloodBath_Slayer_10" />
-									<attribute id="SpellCastingAbility" type="uint8" value="0" />
-									<attribute id="StartRound" type="int32" value="0" />
-									<children>
-										<node id="SourceConditions">
-											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
-											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
-											<children>
-												<node id="Tags" />
-											</children>
-										</node>
-										<node id="TargetConditions">
-											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
-											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
-											<children>
-												<node id="Tags" />
-											</children>
-										</node>
-									</children>
-								</node>
-								<node id="Skill">
-									<attribute id="AIFlags" type="uint16" value="0" />
-									<attribute id="FallbackStartRound" type="int32" value="-1" />
-									<attribute id="LearningStrategy" type="uint8" value="0" />
-									<attribute id="MinimumImpact" type="int32" value="0" />
-									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
-									<attribute id="ScoreModifier" type="float" value="1" />
-									<attribute id="Skill" type="FixedString" value="Shout_Sacrifice_Slayer" />
-									<attribute id="SpellCastingAbility" type="uint8" value="0" />
-									<attribute id="StartRound" type="int32" value="0" />
-									<children>
-										<node id="SourceConditions">
-											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
-											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
-											<children>
-												<node id="Tags" />
-											</children>
-										</node>
-										<node id="TargetConditions">
-											<attribute id="MaximumHealthPercentage" type="int32" value="100" />
-											<attribute id="MinimumHealthPercentage" type="int32" value="0" />
-											<children>
-												<node id="Tags" />
-											</children>
-										</node>
-									</children>
-								</node>
-                                <node id="Skill">
-									<attribute id="AIFlags" type="uint16" value="0" />
-									<attribute id="FallbackStartRound" type="int32" value="-1" />
-									<attribute id="LearningStrategy" type="uint8" value="0" />
-									<attribute id="MinimumImpact" type="int32" value="0" />
-									<attribute id="OnlyCastOnSelf" type="bool" value="False" />
-									<attribute id="ScoreModifier" type="float" value="1" />
-									<attribute id="Skill" type="FixedString" value="KHB_SlayerThrow" />
 									<attribute id="SpellCastingAbility" type="uint8" value="0" />
 									<attribute id="StartRound" type="int32" value="0" />
 									<children>
