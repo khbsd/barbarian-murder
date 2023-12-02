@@ -15,6 +15,10 @@
     <content contentuid="KHB_SanguineCritical_Description" version="1">When you crit, your target gains two stacks of Arterial Puncture.</content>
     <content contentuid="KHB_RaggedierClaws_DisplayName" version="1">Raggedier Claws</content>
     <content contentuid="KHB_RaggedierClaws_Description" version="1">Your nails muster(d) the strength to pierce enemy resistance and immunity to Slashing damage.</content>
+    <content contentuid="KHB_BloodBoiling_DisplayName" version="1">Boiling Blood</content>
+    <content contentuid="KHB_BloodBoiling_Description" version="1">Your blood roils and steams withing your veins, causing your unarmed attacks to deal an extra [1].</content>
+    <content contentuid="KHB_Resorber_DisplayName" version="1">Resorber</content>
+    <content contentuid="KHB_Resorber_Description" version="1">So hungry for blood is your spirit, even your spilt blood nourishes you, healing your rent flesh and providing Resistance to Slashing Damage.</content>
 
     <!--Statuses-->
     <content contentuid="KHB_ArterialRupture_DisplayName" version="1">Arterial Rupture</content>

@@ -41,9 +41,9 @@
                     <attribute id="Level" type="uint8" value="3"/>
                     <attribute id="Name" type="LSString" value="Hearteater"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="PassivesRemoved" type="LSString" value="UnarmouredDefence_Barbarian"/>
-                    <attribute id="PassivesAdded" type="LSString" value="KHB_AllClottedUp_Passive;KHB_Unlock_RaggedClaws_Passive;KHB_GiveMeYourBloodlv3_Passive;KHB_BloodVitality_Passive"/>
-                    <attribute id="Boosts" type="LSString" value="IncreaseMaxHP(20)"/>
+                    <attribute id="PassivesRemoved" type="LSString" value="UnarmouredDefence_Barbarian;RageUnlock"/>
+                    <attribute id="PassivesAdded" type="LSString" value="KHB_AllClottedUp_Passive;KHB_Unlock_RaggedClaws_Passive;KHB_GiveMeYourBloodlv3_Passive;KHB_BloodVitality_Passive;KHB_HematocriticRage_Unlock;KHB_BloodBoiling_Passive"/>
+                    <attribute id="Boosts" type="LSString" value="IncreaseMaxHP(10)"/>
                     <attribute id="TableUUID" type="guid" value="7466a2f2-fef3-47cd-a1e4-519aa5e0186e"/>
                     <attribute id="UUID" type="guid" value="843ec01a-941d-4aeb-a14e-d65fdc4f1fe5"/>
                 </node>
@@ -59,8 +59,8 @@
                     <attribute id="Name" type="LSString" value="Hearteater"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="PassivesRemoved" type="LSString" value="KHB_GiveMeYourBloodlv3_Passive"/>
-                    <attribute id="PassivesAdded" type="LSString" value="KHB_GiveMeYourBloodlv6_Passive;KHB_SanguineCritical_Passive;KHB_Unlock_SlayerForm_Passive"/>
-                    <attribute id="Boosts" type="LSString" value="IncreaseMaxHP(20)"/>
+                    <attribute id="PassivesAdded" type="LSString" value="KHB_GiveMeYourBloodlv6_Passive;KHB_SanguineCritical_Passive;KHB_Unlock_SlayerForm_6_Passive"/>
+                    <attribute id="Boosts" type="LSString" value="IncreaseMaxHP(10)"/>
                     <attribute id="TableUUID" type="guid" value="7466a2f2-fef3-47cd-a1e4-519aa5e0186e"/>
                     <attribute id="UUID" type="guid" value="fd96830e-61af-4814-a421-58a0aed9e137"/>
                 </node>
@@ -78,7 +78,7 @@
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="PassivesRemoved" type="LSString" value="KHB_GiveMeYourBloodlv6_Passive"/>
                     <attribute id="PassivesAdded" type="LSString" value="KHB_GiveMeYourBloodlv9_Passive"/>
-                    <attribute id="Boosts" type="LSString" value="IncreaseMaxHP(20)"/>
+                    <attribute id="Boosts" type="LSString" value="IncreaseMaxHP(10)"/>
                     <attribute id="TableUUID" type="guid" value="7466a2f2-fef3-47cd-a1e4-519aa5e0186e"/>
                     <attribute id="UUID" type="guid" value="445f6aa6-540a-4a34-8b2d-7f8a7ce3e143"/>
                 </node>
@@ -95,8 +95,8 @@
                     <attribute id="Level" type="uint8" value="12"/>
                     <attribute id="Name" type="LSString" value="Hearteater"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="PassivesRemoved" type="LSString" value="KHB_GiveMeYourBloodlv9_Passive"/>
-                    <attribute id="PassivesAdded" type="LSString" value="KHB_GiveMeYourBloodlv12_Passive;KHB_Unlock_RaggedierClaws_Passive;"/>
+                    <attribute id="PassivesRemoved" type="LSString" value="KHB_GiveMeYourBloodlv9_Passive; KHB_Unlock_SlayerForm_6_Passive"/>
+                    <attribute id="PassivesAdded" type="LSString" value="KHB_GiveMeYourBloodlv12_Passive;KHB_Unlock_RaggedierClaws_Passive;KHB_Unlock_SlayerForm_12_Passive"/>
                     <attribute id="Boosts" type="LSString" value="IncreaseMaxHP(20)"/>
                     <attribute id="TableUUID" type="guid" value="7466a2f2-fef3-47cd-a1e4-519aa5e0186e"/>
                     <attribute id="UUID" type="guid" value="0936ad3f-df96-41a6-a112-185bda4f9471"/>
