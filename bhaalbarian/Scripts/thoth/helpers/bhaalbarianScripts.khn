@@ -19,3 +19,11 @@ function LevelDividedByThree(source)
 
     return math.floor(level/3)
 end
+
+
+function SlayerSpellDC(source)
+    local source = source or context.Source
+    local level = source.level
+
+    return level + 2
+end
