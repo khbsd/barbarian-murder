@@ -92,12 +92,21 @@
                     <attribute id="TableUUID" type="guid" value="7466a2f2-fef3-47cd-a1e4-519aa5e0186e"/>
                     <attribute id="UUID" type="guid" value="07487186-423b-452c-afea-04d158ec9e9e"/>
                 </node>
+                <node id="Progression"> Hearteater 11
+                    <attribute id="Level" type="uint8" value="11"/>
+                    <attribute id="Name" type="LSString" value="Hearteater"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesRemoved" type="LSString" value="ExtraAttack"/>
+                    <attribute id="PassivesAdded" type="LSString" value="ExtraAttack_2"/>
+                    <attribute id="TableUUID" type="guid" value="7466a2f2-fef3-47cd-a1e4-519aa5e0186e"/>
+                    <attribute id="UUID" type="guid" value="b2a11af5-ab8e-4639-8868-ccaa8d387b6e"/>
+                </node>
                 <node id="Progression"> Hearteater 12
                     <attribute id="Level" type="uint8" value="12"/>
                     <attribute id="Name" type="LSString" value="Hearteater"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="PassivesRemoved" type="LSString" value="KHB_GiveMeYourBloodlv9_Passive; KHB_Unlock_SlayerForm_6_Passive;KHB_HematophagicResorber_Passive"/>
-                    <attribute id="PassivesAdded" type="LSString" value="KHB_GiveMeYourBloodlv12_Passive;KHB_Unlock_RaggedierClaws_Passive;KHB_Unlock_SlayerForm_12_Passive;KHB_HematophagicResorber2_Passive"/>
+                    <attribute id="PassivesAdded" type="LSString" value="KHB_GiveMeYourBloodlv12_Passive;KHB_Unlock_RaggedierClaws_Passive;KHB_Unlock_SlayerForm_12_Passive;KHB_HematophagicResorber2_Passive;KHB_Unlock_Hearteater"/>
                     <attribute id="Boosts" type="LSString" value="IncreaseMaxHP(20)"/>
                     <attribute id="TableUUID" type="guid" value="7466a2f2-fef3-47cd-a1e4-519aa5e0186e"/>
                     <attribute id="UUID" type="guid" value="0936ad3f-df96-41a6-a112-185bda4f9471"/>
