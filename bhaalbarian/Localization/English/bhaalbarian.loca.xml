@@ -4,6 +4,15 @@
     <content contentuid="KHB_hearteaterPathDisplayName" version="1">Path of the Hearteater</content>
     <content contentuid="KHB_hearteaterPathDescription" version="1">Eat your heart out, Sceleritas Fel.</content>
 
+    <!--Attacks-->
+    <content contentuid="KHB_RaggedClaws_DisplayName" version="1">Ragged Claws</content>
+    <content contentuid="KHB_RaggedClaws_Description" version="1">Your nails have grown to relish blood and violence as much as you do. Make an attack ([1]) with your little homegrown meatcarvers. Weirdo. I bet you think pickles are good when you chop them up ([2]) and use them as a topping.</content>
+    <content contentuid="KHB_EatYourHeartOutSlayer_DisplayName" version="1">Eat Your Heart Out</content>
+    <content contentuid="KHB_EatYourHeartOutSlayer_Description" version="1">Use your jaws and claws to attempt to rip out your target's heart. They must succeed a +[1] Constitution &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;; on a failure, if they have less health than twice your character Level (minimum of 24), they are killed instantly. On a success, they take [2] and become &lt;LSTag Type="Status" Tooltip="KHB_Aortal_Hemorrhage"&gt;Hemorrhaged&lt;/LSTag&gt;.</content>
+    <content contentuid="KHB_SlayWhatYou_DisplayName" version="1">Slay What You Mean to Slay</content>
+    <content contentuid="KHB_SlayWhatYou_Description" version="1">Shred your enemies with your big-ass homegrown meatcarvers. If your attack hits, deal [1] and regain [3]; if it misses, take [2].</content>
+    <content contentuid="KHB_SlayWhatYou_ExtraDescription" version="1">-John Slayer, probably</content>
+
     <!--Passives-->
     <content contentuid="KHB_GiveMeYourBlood_DisplayName" version="1">Give Me Your Blood</content>
     <content contentuid="KHB_GiveMeYourBlood_Description" version="1">Your desire for the blood of your enemies drives you to strike their weak points more often. Your Critical hit threshold is reduced by [1].</content>
@@ -19,13 +28,47 @@
     <content contentuid="KHB_BloodBoiling_Description" version="1">Your blood roils and steams withing your veins, causing your unarmed attacks to deal an extra [1].</content>
     <content contentuid="KHB_Resorber_DisplayName" version="1">Resorber</content>
     <content contentuid="KHB_Resorber_Description" version="1">So hungry for blood is your spirit, even your spilt blood nourishes you, healing your rent flesh and providing Resistance to Slashing Damage.</content>
+    <content contentuid="KHB_Umbrapaxic_DisplayName" version="1">Umbrapaxic</content>
+    <content contentuid="KHB_Umbrapaxic_Description" version="1">After you kill an enemy, become &lt;LSTag Type="Status" Tooltip="INVISIBILITY"&gt;Invisible&lt;/LSTag&gt; for [1] turns. </content>
+    <content contentuid="KHB_Umbrapaxic_ExtraDescription" version="1">&lt;br&gt;Lambert: I can't see a goddamn thing.&lt;br&gt;Kane: Quit griping.&lt;br&gt;Lambert: I like griping.</content>
+
+    <!--Projectiles-->
+    <content contentuid="KHB_RupturingLeap_DisplayName" version="1">Rupturing Leap</content>
+    <content contentuid="KHB_RupturingLeap_Descripton" version="1">Leap into the air and crash down, sending shocks through your enemies' bodies in a [1]m radius. They must succeed against a +[1] Strength &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; or receive [2] stacks of &lt;LSTag Type="Status" Tooltip="KHB_Arterial_Rupture"&gt;Arterial Rupture&lt;/LSTag&gt;.</content>
+    <content contentuid="KHB_RupturingLeapSlayer_Description" version="1">Leap into the air and crash down, sending shocks through your enemies' bodies in a [2]m radius. They must succeed against a +[2] Strength &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; or receive [3] stacks of &lt;LSTag Type="Status" Tooltip="KHB_Arterial_Rupture"&gt;Arterial Rupture&lt;/LSTag&gt; and take [1].</content>
+
+    <!--Shouts-->
+    <content contentuid="KHB_HematocriticRage_DisplayName" version="1">Hematocritic Rage</content>
+    <content contentuid="KHB_HematocriticRage_Description" version="1">Let that freaky joy I was talking about loose; terrify your enemies when they realize you are not equal combatants: you are the predator, and they are the prey. Enemies within [2] become &lt;LSTag Type="Status" Tooltip="FEARED"&gt;Fearful&lt;/LSTag&gt; for [3] rounds.</content>
+    <content contentuid="KHB_HearteaterSlayer_DisplayName" version="1">Hearteater Slayer Form</content>
+    <content contentuid="KHB_HearteaterSlayerDismiss_DisplayName" version="1">Hearteater Slayer Dismiss</content>
+    <content contentuid="KHB_HearteaterSlayer_Description" version="1">The terrible purpose within bursts out of you, remaking you so that you may remake the world. Let the gods tremble at your approach; rip and tear, until it is complete.</content>
+    <content contentuid="KHB_UmbrapaxicIntent_DisplayName" version="1">Umbrapaxic Intent</content>
+    <content contentuid="KHB_UmbrapaxicDismiss_DisplayName" version="1">Umbrapaxic Intent Dismiss</content>
+    <content contentuid="KHB_UmbrapaxicIntent_Description" version="1">Your predatorial nature now lets you become &lt;LSTag Type="Status" Tooltip="INVISIBILITY"&gt;Invisible&lt;/LSTag&gt; at will, stalking your prey with a cold-blooded focus.</content>
+    <content contentuid="KHB_SacrificeImWilling_DisplayName" version="1">A Sacrifice I'm Willing to Make</content>
+    <content contentuid="KHB_SacrificeImWilling_Description" version="1">Prepare to sacrifice all enemies within [1]m. Marked targets are &lt;LSTag Type="Status" Tooltip="DAZED"&gt;Dazed&lt;/LSTag&gt;, &lt;LSTag Type="Status" Tooltip="KHB_Arterial_Rupture"&gt;Ruptured&lt;/LSTag&gt;, and when they die, you gain a +1 bonus to &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt;.</content>
+    <content contentuid="KHB_SacrificeImWilling_ExtraDescription" version="1">Most of you will die, but that's a... well, you've read the name.</content>
+    
+
+    <!--Zone Spells-->
+    <content contentuid="KHB_Bloodcurdler_DisplayName" version="1">Bloodcurdler</content>
+    <content contentuid="KHB_Bloodcurdler_Description" version="1">Let the beautiful dark twisted fantasy inside pour out in a primal, terrifying scream of sadistic savagery. Enemies within [1]m take [2] and must succeed against a +[1] Constitution &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; or become &lt;LSTag Type="Status" Tooltip="FEARED"&gt;Feared&lt;/LSTag&gt; and &lt;LSTag Type="Status" Tooltip="KHB_Arterial_Rupture"&gt;Ruptured&lt;/LSTag&gt; for [3] turns.</content>
+    <content contentuid="KHB_BloodcurdlerSlayer_Description" version="1">Let the beautiful dark twisted fantasy inside pour out in a primal, terrifying scream of sadistic savagery. Enemies within [3]m take [2] and must succeed against a +[1] Constitution &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; or become &lt;LSTag Type="Status" Tooltip="FEARED"&gt;Feared&lt;/LSTag&gt; and &lt;LSTag Type="Status" Tooltip="KHB_Arterial_Rupture"&gt;Ruptured&lt;/LSTag&gt; for [4] turns.</content>
+    
+
 
     <!--Statuses-->
     <content contentuid="KHB_ArterialRupture_DisplayName" version="1">Arterial Rupture</content>
-    <content contentuid="KHB_ArterialRupture_Description" version="1">lottem slashin damage</content>
+    <content contentuid="KHB_ArterialRupture_Description" version="1">You're not bleeding out, but you're losing a lot of blood. Take [1] per turn.</content>
+    <content contentuid="KHB_AortalHemorrhage_DisplayName" version="1">Aortal Hemorrhage</content>
+    <content contentuid="KHB_AortalHemorrhage_Description" version="1">You're bleeding out. Nothing can save you except for fate. You take [1] per turn, and when this status is removed, you must succeed against a +[2] Constitution &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;. If you fail, you die. If you succeed, you become &lt;LSTag Type="Status" Tooltip="FEARED"&gt;Feared&lt;/LSTag&gt;</content>
+    <content contentuid="KHB_DeathsDoor_DisplayName" version="1">Death's Door</content>
+    <content contentuid="KHB_DeathsDoor_Description" version="1">You are close to dying. Get healing or take a long rest. You have -6 to &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;, &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;, and most &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Checks&lt;/LSTag&gt;.</content>
 
-    <!--Attacks-->
-    <content contentuid="KHB_RaggedClaws_DisplayName" version="1">Ragged Claws</content>
-    <content contentuid="KHB_RaggedClaws_Description" version="1">Your nails have grown to relish blood and violence as much as you do. Make an attack with your little homegrown meatcarvers. Weirdo. I bet you think pickles are good when you chop them up and use them as a topping.</content>
+
+
+
+
 
 </contentList>

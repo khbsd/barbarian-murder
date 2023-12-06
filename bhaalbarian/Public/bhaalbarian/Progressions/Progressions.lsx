@@ -60,7 +60,7 @@
                     <attribute id="Name" type="LSString" value="Hearteater"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="PassivesRemoved" type="LSString" value="KHB_GiveMeYourBloodlv3_Passive"/>
-                    <attribute id="PassivesAdded" type="LSString" value="KHB_GiveMeYourBloodlv6_Passive;KHB_SanguineCritical_Passive;KHB_Unlock_SlayerForm_6_Passive;KHB_Unlock_Bloodcurdler"/>
+                    <attribute id="PassivesAdded" type="LSString" value="KHB_GiveMeYourBloodlv6_Passive;KHB_SanguineCritical_Passive;KHB_Unlock_SlayerForm_6_Passive;KHB_Unlock_SlayerForm_Dismiss_Passive;KHB_Unlock_Bloodcurdler"/>
                     <attribute id="Boosts" type="LSString" value="IncreaseMaxHP(10)"/>
                     <attribute id="TableUUID" type="guid" value="7466a2f2-fef3-47cd-a1e4-519aa5e0186e"/>
                     <attribute id="UUID" type="guid" value="fd96830e-61af-4814-a421-58a0aed9e137"/>
