@@ -69,7 +69,7 @@
     <content contentuid="KHB_ArterialRupture_DisplayName" version="1">Arterial Rupture</content>
     <content contentuid="KHB_ArterialRupture_Description" version="1">You're not bleeding out, but you're losing a lot of blood. Take [1] per turn.</content>
     <content contentuid="KHB_AortalHemorrhage_DisplayName" version="1">Aortal Hemorrhage</content>
-    <content contentuid="KHB_AortalHemorrhage_Description" version="1">You're bleeding out. Nothing can save you except for fate. You take [1] per turn, and when this status is removed, you must succeed against a +[2] Constitution &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;. If you fail, you die. If you succeed, you become &lt;LSTag Type="Status" Tooltip="FEARED"&gt;Feared&lt;/LSTag&gt;</content>
+    <content contentuid="KHB_AortalHemorrhage_Description" version="1">You're bleeding out. Nothing can save you except for fate. You take [1] per turn, and when this status is removed, you must succeed against a +[2] Constitution &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;. If you fail, you die. If you succeed, you'll be on &lt;LSTag Type="Status" Tooltip="KHB_Deaths_Door"&gt;death's door&lt;/LSTag&gt; until you are healed or take a long rest.</content>
     <content contentuid="KHB_DeathsDoor_DisplayName" version="1">Death's Door</content>
     <content contentuid="KHB_DeathsDoor_Description" version="1">You are close to dying. Get healing or take a long rest. You have -6 to &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;, &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;, and most &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Checks&lt;/LSTag&gt;.</content>
 
