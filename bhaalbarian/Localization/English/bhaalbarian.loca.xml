@@ -16,7 +16,6 @@
     <content contentuid="KHB_Hearteater_Description" version="1">Attempt to rip a target's heart out of its chest and eat it. They must succeed against a +[1] Constitution &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;; on a failure, they are killed instantly. On a success, they take [3] and become &lt;LSTag Type="Status" Tooltip="KHB_Aortal_Hemorrhage"&gt;Hemorrhaged&lt;/LSTag&gt;.</content>
     <content contentuid="KHB_Hearteater_ExtraDescription" version="1">Eat your heart out, Scelerit- oh shit, I already used that line!</content>
     
-
     <!--Passives-->
     <content contentuid="KHB_GiveMeYourBlood_DisplayName" version="1">Give Me Your Blood</content>
     <content contentuid="KHB_GiveMeYourBlood_Description" version="1">Your desire for the blood of your enemies drives you to strike their weak points more often. Your Critical hit threshold is reduced by [1].</content>
@@ -63,8 +62,6 @@
     <content contentuid="KHB_Bloodcurdler_Description" version="1">Let the beautiful dark twisted fantasy inside pour out in a primal, terrifying scream of sadistic savagery. Enemies within [1]m take [2] and must succeed against a +[1] Constitution &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; or become &lt;LSTag Type="Status" Tooltip="FEARED"&gt;Feared&lt;/LSTag&gt; and &lt;LSTag Type="Status" Tooltip="KHB_Arterial_Rupture"&gt;Ruptured&lt;/LSTag&gt; for [3] turns.</content>
     <content contentuid="KHB_BloodcurdlerSlayer_Description" version="1">Let the beautiful dark twisted fantasy inside pour out in a primal, terrifying scream of sadistic savagery. Enemies within [3]m take [2] and must succeed against a +[1] Constitution &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; or become &lt;LSTag Type="Status" Tooltip="FEARED"&gt;Feared&lt;/LSTag&gt; and &lt;LSTag Type="Status" Tooltip="KHB_Arterial_Rupture"&gt;Ruptured&lt;/LSTag&gt; for [4] turns.</content>
     
-
-
     <!--Statuses-->
     <content contentuid="KHB_ArterialRupture_DisplayName" version="1">Arterial Rupture</content>
     <content contentuid="KHB_ArterialRupture_Description" version="1">You're not bleeding out, but you're losing a lot of blood. Take [1] per turn.</content>
@@ -72,10 +69,5 @@
     <content contentuid="KHB_AortalHemorrhage_Description" version="1">You're bleeding out. Nothing can save you except for fate. You take [1] per turn, and when this status is removed, you must succeed against a +[2] Constitution &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;. If you fail, you die. If you succeed, you'll be on &lt;LSTag Type="Status" Tooltip="KHB_Deaths_Door"&gt;death's door&lt;/LSTag&gt; until you are healed or take a long rest.</content>
     <content contentuid="KHB_DeathsDoor_DisplayName" version="1">Death's Door</content>
     <content contentuid="KHB_DeathsDoor_Description" version="1">You are close to dying. Get healing or take a long rest. You have -6 to &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;, &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;, and most &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Checks&lt;/LSTag&gt;.</content>
-
-
-
-
-
 
 </contentList>
