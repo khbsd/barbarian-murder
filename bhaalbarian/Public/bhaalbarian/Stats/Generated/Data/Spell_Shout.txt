@@ -167,5 +167,5 @@ data "SpellAnimation" "03496c4a-49e0-4132-b585-3e5ecd1ad8e5,,;,,;09ae2f11-f5b4-4
 data "VerbalIntent" "Damage"
 data "SpellStyleGroup" "Class"
 data "SpellFlags" "IsMelee;IsHarmful"
-data "PrepareEffect" "f5269188-8099-49b1-8515-b549bd8b61b9"
+data "PrepareEffect" "cdbd7d10-08de-4e0f-8d00-08dd7ec82c45"
 data "CastEffect" "be0f8ccc-ea5b-422a-a5c8-b2f811b79c27"
