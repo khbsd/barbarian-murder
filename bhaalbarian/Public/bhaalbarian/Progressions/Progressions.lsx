@@ -41,8 +41,8 @@
                     <attribute id="Level" type="uint8" value="3"/>
                     <attribute id="Name" type="LSString" value="Hearteater"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="PassivesRemoved" type="LSString" value="UnarmouredDefence_Barbarian;RageUnlock"/>
-                    <attribute id="PassivesAdded" type="LSString" value="KHB_AllClottedUp_Passive;KHB_Unlock_RaggedClaws_Passive;KHB_GiveMeYourBloodlv3_Passive;KHB_BloodVitality_Passive;KHB_HematocriticRage_Unlock;KHB_BloodBoiling_Passive"/>
+                    <attribute id="PassivesRemoved" type="LSString" value="UnarmouredDefence_Barbarian;RageUnlock;RecklessAttack"/>
+                    <attribute id="PassivesAdded" type="LSString" value="KHB_AllClottedUp_Passive;KHB_Unlock_RaggedClaws_Passive;KHB_GiveMeYourBloodlv3_Passive;KHB_BloodVitality_Passive;KHB_HematocriticRage_Unlock;KHB_BloodBoiling_Passive;KHB_BleedingEdge_Unlock"/>
                     <attribute id="Boosts" type="LSString" value="IncreaseMaxHP(10)"/>
                     <attribute id="TableUUID" type="guid" value="7466a2f2-fef3-47cd-a1e4-519aa5e0186e"/>
                     <attribute id="UUID" type="guid" value="843ec01a-941d-4aeb-a14e-d65fdc4f1fe5"/>
