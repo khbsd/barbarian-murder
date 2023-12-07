@@ -22,10 +22,10 @@
     <content contentuid="KHB_AllClottedUp_DisplayName" version="1">All Clotted Up</content>
     <content contentuid="KHB_AllClottedUp_Description" version="1">Blood fills your pores and seeps between the layers of your skin, then clots up. While not wearing armor, your AC becomes [1] plus your Strength and Constitution modifiers.</content>
     <content contentuid="KHB_BloodVitality_DisplayName" version="1">Blood Vitality</content>
-    <content contentuid="KHB_BloodVitality_Description" version="1">You get some freaky joy from blood between your toes. When you enter a blood surface, you soak it up and regain hit points equal to 1d4 plus your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt;. </content>
-    <content contentuid="KHB_BloodVitalitySlayer_Description" version="1">You get some freaky joy from blood between your clawed toes. When you enter a blood surface, you soak it up and regain hit points equal to 1d4 plus your Strength Modifier. </content>
-    <content contentuid="KHB_BloodVitalitySlayer12_Description" version="1">You get some freaky joy from blood between your big-ass clawed toes. When you enter a blood surface, you soak it up and regain hit points equal to 2d4 plus your Strength Modifier.</content>
-    <content contentuid="KHB_BloodVitality_ExtraDescription" version="1">slurp slurp</content>
+    <content contentuid="KHB_BloodVitality_Description" version="1">You get some freaky joy from blood between your toes. When you enter a blood surface, you soak it up and regain [1]. </content>
+    <content contentuid="KHB_BloodVitalitySlayer_Description" version="1">You get some freaky joy from blood between your clawed toes. When you enter a blood surface, you soak it up and regain hit points equal to [1]. </content>
+    <content contentuid="KHB_BloodVitalitySlayer12_Description" version="1">You get some freaky joy from blood between your big-ass clawed toes. When you enter a blood surface, you soak it up and regain [1].</content>
+    <content contentuid="KHB_BloodVitality_ExtraDescription" version="1">&lt;i&gt;slurp slurp&lt;/i&gt;</content>
     <content contentuid="KHB_SanguineCritical_DisplayName" version="1">Sanguine Critical</content>
     <content contentuid="KHB_SanguineCritical_Description" version="1">When you land a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt;, your target becomes &lt;LSTag Type="Status" Tooltip="KHB_Arterial_Rupture"&gt;Ruptured&lt;/LSTag&gt; for [1] turns. At Level 12, if your &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt; kills your target, you regain 1 &lt;LSTag Type="ActionResource" Tooltip="ActionPoint"&gt;action point&lt;/LSTag&gt;.</content>
     <content contentuid="KHB_RaggedierClaws_DisplayName" version="1">Raggedier Claws</content>
@@ -56,7 +56,7 @@
     <content contentuid="KHB_SacrificeImWilling_Description" version="1">Prepare to sacrifice all enemies within [1]m. Marked targets are &lt;LSTag Type="Status" Tooltip="DAZED"&gt;Dazed&lt;/LSTag&gt;, &lt;LSTag Type="Status" Tooltip="KHB_Arterial_Rupture"&gt;Ruptured&lt;/LSTag&gt; for [2] turns, and when they die, you gain a +1 bonus to &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt;.</content>
     <content contentuid="KHB_SacrificeImWilling_ExtraDescription" version="1">&lt;i&gt;Most of you will die, but that's a... well, you've read the name.&lt;/i&gt;</content>
     <content contentuid="KHB_BleedingEdge_DisplayName" version="1">Bleeding Edge</content>
-    <content contentuid="KHB_BleedingEdge_Description" version="1">The scent of blood, even your own, puts you on a dangerous, delicious edge. You take [1], and until your next turn, you have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;, but enemies also have Advantage against you. At level 6 and up, also restores a &lt;LSTag Type="ActionResource" Tooltip="Rage"&gt;Rage Charge&lt;/LSTag&gt;.</content>
+    <content contentuid="KHB_BleedingEdge_Description" version="1">The scent of blood, even your own, puts you on a dangerous, delicious edge. You take [1], and until your next turn, you have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;, but enemies also have Advantage against you. At level [2] and above, this ability also restores a &lt;LSTag Type="ActionResource" Tooltip="Rage"&gt;Rage Charge&lt;/LSTag&gt;.</content>
     <content contentuid="KHB_BleedingEdgeStatus_Description" version="1">&lt;i&gt;snarf snarf bark grrrrr snarf bark grrrrr ruff ruff&lt;/i&gt;</content>
 
     <!--Zone Spells-->
