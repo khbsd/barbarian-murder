@@ -16,7 +16,7 @@ data "TooltipDamageList" "RegainHitPoints(1d4+ProficiencyBonus)"
 data "StackId" "KHB_BV_Passive"
 data "StackType" "Overwrite"
 data "StatsFunctorContext" "OnSurfaceEnter"
-data "Conditions" "InSurface('SurfaceBlood',context.Source);HasHPPercentageWithoutTemporaryHPLessThan(100)"
+data "Conditions" "InSurface('SurfaceBlood',context.Source) and HasHPPercentageWithoutTemporaryHPLessThan(100)"
 data "StatsFunctors" "RegainHitPoints(1d4+ProficiencyBonus);GROUND:CreateSurface(1,-1,None)"
 
 new entry "KHB_BloodVitalitySlayer_Passive"
