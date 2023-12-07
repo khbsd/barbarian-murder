@@ -22,7 +22,9 @@
     <content contentuid="KHB_AllClottedUp_DisplayName" version="1">All Clotted Up</content>
     <content contentuid="KHB_AllClottedUp_Description" version="1">Blood fills your pores and seeps between the layers of your skin, then clots up. While not wearing armor, your AC becomes [1] plus your Strength and Constitution modifiers.</content>
     <content contentuid="KHB_BloodVitality_DisplayName" version="1">Blood Vitality</content>
-    <content contentuid="KHB_BloodVitality_Description" version="1">You get some freaky joy from blood between your toes. When you enter a blood surface, you soak it up and regain hit points equal to 2d4 plus your Strength modifier.</content>
+    <content contentuid="KHB_BloodVitality_Description" version="1">You get some freaky joy from blood between your toes. When you enter a blood surface, you soak it up and regain hit points equal to 1d4 plus your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt;. </content>
+    <content contentuid="KHB_BloodVitalitySlayer_Description" version="1">You get some freaky joy from blood between your clawed toes. When you enter a blood surface, you soak it up and regain hit points equal to 1d4 plus your Strength Modifier. </content>
+    <content contentuid="KHB_BloodVitalitySlayer12_Description" version="1">You get some freaky joy from blood between your big-ass clawed toes. When you enter a blood surface, you soak it up and regain hit points equal to 2d4 plus your Strength Modifier.</content>
     <content contentuid="KHB_BloodVitality_ExtraDescription" version="1">slurp slurp</content>
     <content contentuid="KHB_SanguineCritical_DisplayName" version="1">Sanguine Critical</content>
     <content contentuid="KHB_SanguineCritical_Description" version="1">When you land a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt;, your target becomes &lt;LSTag Type="Status" Tooltip="KHB_Arterial_Rupture"&gt;Ruptured&lt;/LSTag&gt; for [1] turns. At Level 12, if your &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt; kills your target, you regain 1 &lt;LSTag Type="ActionResource" Tooltip="ActionPoint"&gt;action point&lt;/LSTag&gt;.</content>
