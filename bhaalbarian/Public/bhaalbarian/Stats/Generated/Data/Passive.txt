@@ -3,7 +3,7 @@ type "PassiveData"
 data "DisplayName" "KHB_HematocriticRage_DisplayName;1"
 data "Description" "KHB_HematocriticRage_Description;1"
 data "Icon" "Action_Barbarian_Rage"
-data "Boosts" "UnlockSpell(KHB_Shout_HematocriticRage)"
+data "Boosts" "UnlockSpell(KHB_Shout_HematocriticRage);Tag(PETPAL)"
 
 new entry "KHB_BloodVitality_Passive"
 type "PassiveData"
