@@ -158,7 +158,7 @@ data "SpellProperties" "ApplyStatus(SELF,KHB_BLEEDINGEDGE,100,1);IF(CharacterLev
 data "Icon" "Action_Barbarian_RecklessAttack"
 data "DisplayName" "KHB_BleedingEdge_DisplayName;2"
 data "Description" "KHB_BleedingEdge_Description;9"
-data "DescriptionParams" "DealDamage(2d4,Slashing)"
+data "DescriptionParams" "DealDamage(2d8,Slashing)"
 data "CastSound" "Action_Cast_RecklessAttack"
 data "TargetSound" "Action_Impact_RecklessAttack"
 data "CastTextEvent" "Cast"
