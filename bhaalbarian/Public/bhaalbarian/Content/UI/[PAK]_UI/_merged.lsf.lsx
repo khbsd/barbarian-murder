@@ -5,11 +5,11 @@
         <node id="TextureBank">
             <children>
                 <node id="Resource">
-                    <attribute id="ID" type="FixedString" value="b1db95ac-9865-479b-a68b-0c0f604c123c" />
+                    <attribute id="ID" type="FixedString" value="a4cc26b3-274a-4030-8751-bb1f286bb447" />
                     <attribute id="Localized" type="bool" value="False" />
-                    <attribute id="Name" type="LSString" value="bhaalbarian_Icons" />
+                    <attribute id="Name" type="LSString" value="Ragged_Claws" />
                     <attribute id="SRGB" type="bool" value="True" />
-                    <attribute id="SourceFile" type="LSString" value="Public/bhaalbarian/Assets/Textures/Icons/bhaalbarian_Icons.dds" />
+                    <attribute id="SourceFile" type="LSString" value="Public/bhaalbarian/Assets/Textures/Icons/Ragged_Claws.DDS" />
                     <attribute id="Streaming" type="bool" value="True" />
                     <attribute id="Template" type="FixedString" value="Icons_Items" />
                     <attribute id="Type" type="int64" value="0" />

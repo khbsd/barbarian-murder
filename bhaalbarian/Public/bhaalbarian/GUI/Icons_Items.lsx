@@ -9,8 +9,8 @@
                     <attribute id="Width" type="int64" value="64"/>
                 </node>
                 <node id="TextureAtlasPath">
-                    <attribute id="Path" type="LSString" value="Assets/Textures/Icons/bhaalbarian_Icons.dds"/>
-                    <attribute id="UUID" type="FixedString" value="b1db95ac-9865-479b-a68b-0c0f604c123c"/>
+                    <attribute id="Path" type="LSString" value="Assets/Textures/Icons/Ragged_Claws.DDS"/>
+                    <attribute id="UUID" type="FixedString" value="a4cc26b3-274a-4030-8751-bb1f286bb447"/>
                 </node>
                 <node id="TextureAtlasTextureSize">
                     <attribute id="Height" type="int64" value="256"/>
@@ -23,7 +23,7 @@
         <node id="root">
             <children>
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="bhaalbarian"/> 1
+                    <attribute id="MapKey" type="FixedString" value="Ragged_Claws"/> 1
                     <attribute id="U1" type="float" value="0.0"/> Left
                     <attribute id="U2" type="float" value="0.25"/> Right
                     <attribute id="V1" type="float" value="0.0"/> Top
