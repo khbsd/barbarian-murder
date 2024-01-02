@@ -22,20 +22,20 @@
     <content contentuid="KHB_AllClottedUp_DisplayName" version="1">All Clotted Up</content>
     <content contentuid="KHB_AllClottedUp_Description" version="1">Blood fills your pores and seeps between the layers of your skin, then clots up. While not wearing armor, your AC becomes [1] plus your Strength and Constitution modifiers.</content>
     <content contentuid="KHB_BloodVitality_DisplayName" version="1">Blood Vitality</content>
-    <content contentuid="KHB_BloodVitality_Description" version="1">You get some freaky joy from blood between your toes. When you enter a blood surface, you soak it up and regain [1]. </content>
+    <content contentuid="KHB_BloodVitality_Description" version="1">You get some freaky joy from blood between your toes. When you enter a blood surface, you soak it up and regain [1].</content>
     <content contentuid="KHB_BloodVitalitySlayer_Description" version="1">You get some freaky joy from blood between your clawed toes. When you enter a blood surface, you soak it up and regain hit points equal to [1]. </content>
     <content contentuid="KHB_BloodVitalitySlayer12_Description" version="1">You get some freaky joy from blood between your big-ass clawed toes. When you enter a blood surface, you soak it up and regain [1].</content>
     <content contentuid="KHB_BloodVitality_ExtraDescription" version="1">&lt;i&gt;slurp slurp&lt;/i&gt;</content>
     <content contentuid="KHB_SanguineCritical_DisplayName" version="1">Sanguine Critical</content>
     <content contentuid="KHB_SanguineCritical_Description" version="1">When you land a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt;, your target becomes &lt;LSTag Type="Status" Tooltip="KHB_Arterial_Rupture"&gt;Ruptured&lt;/LSTag&gt; for [1] turns. At Level 12, if your &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt; kills your target, you regain 1 &lt;LSTag Type="ActionResource" Tooltip="ActionPoint"&gt;action point&lt;/LSTag&gt;.</content>
     <content contentuid="KHB_RaggedierClaws_DisplayName" version="1">Raggedier Claws</content>
-    <content contentuid="KHB_RaggedierClaws_Description" version="1">Your nails muster(d) the strength to pierce enemy resistance and immunity to Slashing damage.</content>
+    <content contentuid="KHB_RaggedierClaws_Description" version="1">Your nails mustard the strength to pierce enemy resistance and immunity to Slashing damage.</content>
     <content contentuid="KHB_BloodBoiling_DisplayName" version="1">Boiling Blood</content>
     <content contentuid="KHB_BloodBoiling_Description" version="1">Your blood roils and steams withing your veins, causing your unarmed attacks to deal an extra [1].</content>
     <content contentuid="KHB_Resorber_DisplayName" version="1">Resorber</content>
     <content contentuid="KHB_Resorber_Description" version="1">So starved for blood is your spirit, even your spilt blood nourishes you, healing your rent flesh and providing Resistance to Slashing Damage.</content>
     <content contentuid="KHB_Umbrapaxic_DisplayName" version="1">Umbrapaxic</content>
-    <content contentuid="KHB_Umbrapaxic_Description" version="1">After you kill an enemy, become &lt;LSTag Type="Status" Tooltip="INVISIBILITY"&gt;Invisible&lt;/LSTag&gt; for [1] turns. </content>
+    <content contentuid="KHB_Umbrapaxic_Description" version="1">After you kill an enemy, become &lt;LSTag Type="Status" Tooltip="INVISIBILITY"&gt;Invisible&lt;/LSTag&gt; for [1] turns.</content>
     <content contentuid="KHB_Umbrapaxic_ExtraDescription" version="1">&lt;i&gt;&lt;br&gt;Lambert: I can't see a goddamn thing.&lt;br&gt;Kane: Quit griping.&lt;br&gt;Lambert: I like griping.&lt;/i&gt;</content>
 
     <!--Projectiles-->
