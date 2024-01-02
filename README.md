@@ -1,5 +1,6 @@
 # Path of the Hearteater
-- Embrace your darkest urges and become the blood-soaked reckoning your violent soul demands.
+- Embrace your darkest urges, become the blood-soaked reckoning your violent soul demands.
+- With a sweet-ass claw icon drawn by Astralities!!
 
 
 ## Level 3:
