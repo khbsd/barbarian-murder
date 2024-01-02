@@ -34,6 +34,7 @@
     <content contentuid="KHB_BloodBoiling_Description" version="1">Your blood roils and steams withing your veins, causing your unarmed attacks to deal an extra [1].</content>
     <content contentuid="KHB_Resorber_DisplayName" version="1">Resorber</content>
     <content contentuid="KHB_Resorber_Description" version="1">So starved for blood is your spirit, even your spilt blood nourishes you, healing your rent flesh and providing Resistance to Slashing Damage.</content>
+    <content contentuid="KHB_Resorber_ExtraDescription" version="1">&lt;b&gt;fuck it we bhaal&lt;/b&gt;&lt;br&gt;&lt;i&gt;-Pineapple, probably&lt;/i&gt;</content>
     <content contentuid="KHB_Umbrapaxic_DisplayName" version="1">Umbrapaxic</content>
     <content contentuid="KHB_Umbrapaxic_Description" version="1">After you kill an enemy, become &lt;LSTag Type="Status" Tooltip="INVISIBILITY"&gt;Invisible&lt;/LSTag&gt; for [1] turns.</content>
     <content contentuid="KHB_Umbrapaxic_ExtraDescription" version="1">&lt;i&gt;&lt;br&gt;Lambert: I can't see a goddamn thing.&lt;br&gt;Kane: Quit griping.&lt;br&gt;Lambert: I like griping.&lt;/i&gt;</content>
