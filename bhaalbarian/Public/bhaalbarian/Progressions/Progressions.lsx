@@ -106,7 +106,7 @@
                     <attribute id="Name" type="LSString" value="Hearteater"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="PassivesRemoved" type="LSString" value="KHB_GiveMeYourBloodlv9_Passive; KHB_Unlock_SlayerForm_6_Passive;KHB_HematophagicResorber_Passive"/>
-                    <attribute id="PassivesAdded" type="LSString" value="KHB_GiveMeYourBloodlv12_Passive;KHB_Unlock_RaggedierClaws_Passive;KHB_Unlock_SlayerForm_12_Passive;KHB_HematophagicResorber2_Passive;KHB_Unlock_Hearteater"/>
+                    <attribute id="PassivesAdded" type="LSString" value="KHB_GiveMeYourBloodlv12_Passive;KHB_Unlock_RaggedierClaws_Passive;KHB_Unlock_SlayerForm_12_Passive;KHB_HematophagicResorber2_Passive;KHB_Unlock_Hearteater;KHB_Vitalmins_Passive"/>
                     <attribute id="Boosts" type="LSString" value="IncreaseMaxHP(20)"/>
                     <attribute id="TableUUID" type="guid" value="7466a2f2-fef3-47cd-a1e4-519aa5e0186e"/>
                     <attribute id="UUID" type="guid" value="0936ad3f-df96-41a6-a112-185bda4f9471"/>

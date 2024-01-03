@@ -95,7 +95,17 @@ data "Conditions" "HasDamageEffectFlag(DamageFlags.Critical) and not (IsCritical
 data "BoostConditions" "HasDamageEffectFlag(DamageFlags.Critical) and not (IsCriticalMiss() or IsMiss())"
 data "StatsFunctorContext" "OnAttack"
 data "StatsFunctors" "ApplyStatus(KHB_Arterial_Rupture,100,2)"
-data "Boosts" "DealDamage(1d4+ProficiencyBonus, Slashing);IF(CharacterLevelGreaterThan(11) and IsKillingBlow()):RestoreResource(ActionPoint, 1, 0)"
+data "Boosts" "DealDamage(1d4+ProficiencyBonus, Slashing)"
+
+new entry "KHB_Vitalmins_Passive"
+type "PassiveData"
+data "DisplayName" "KHB_Vitalmins_DisplayName;2"
+data "Description" "KHB_Vitalmins_Description;4"
+data "DescriptionParams" "1"
+data "Icon" "Skill_Fighter_ActionSurge"
+data "Properties" "Highlighted;OncePerTurn"
+data "StatsFunctorContext" "OnAttack"
+data "StatsFunctors" "IF(HasDamageEffectFlag(DamageFlags.Critical) and IsKillingBlow()):ApplyStatus(SELF, ACTION_SURGE, 100, 1)"
 
 new entry "KHB_AllClottedUp_Passive"
 type "PassiveData"
