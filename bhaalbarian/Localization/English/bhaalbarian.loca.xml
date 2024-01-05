@@ -27,7 +27,7 @@
     <content contentuid="KHB_BloodVitalitySlayer12_Description" version="1">You get some freaky joy from blood between your big-ass clawed toes. When you enter a blood surface, you soak it up and regain [1].</content>
     <content contentuid="KHB_BloodVitality_ExtraDescription" version="1">&lt;i&gt;slurp slurp&lt;/i&gt;</content>
     <content contentuid="KHB_SanguineCritical_DisplayName" version="1">Sanguine Critical</content>
-    <content contentuid="KHB_SanguineCritical_Description" version="1">When you land a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt;, your target becomes &lt;LSTag Type="Status" Tooltip="KHB_Arterial_Rupture"&gt;Ruptured&lt;/LSTag&gt; for [1] turns.</content>
+    <content contentuid="KHB_SanguineCritical_Description" version="1">When you land a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt;, you deal an additional [2] and your target becomes &lt;LSTag Type="Status" Tooltip="KHB_Arterial_Rupture"&gt;Ruptured&lt;/LSTag&gt; for [1] turns.</content>
     <content contentuid="KHB_Vitalmins_DisplayName" version="1">Vitalmins</content>
     <content contentuid="KHB_Vitalmins_Description" version="1">Sometimes killing just really gets you going. It's like eating your vitamins. Once per turn, if your &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt; kills your target, you regain [1] &lt;LSTag Type="ActionResource" Tooltip="ActionPoint"&gt;action point&lt;/LSTag&gt;.</content>
     <content contentuid="KHB_RaggedierClaws_DisplayName" version="1">Raggedier Claws</content>
