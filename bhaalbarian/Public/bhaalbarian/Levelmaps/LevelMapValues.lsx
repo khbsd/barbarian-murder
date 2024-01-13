@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="328"/>
+    <region id="LevelMapValues">
+        <node id="root">
+            <children>
+                <node id="LevelMapSeries">
+                    <node id="LevelMapSeries">
+                        <attribute id="FallbackValue" type="LSString" value="1d4 - 1"/>
+                        <attribute id="Level1" type="LSString" value="1d4 - 3"/>
+                        <attribute id="Level6" type="LSString" value="1d4 - 2"/>
+                        <attribute id="Level12" type="LSString" value="1d4 - 1"/>
+                        <attribute id="Name" type="FixedString" value="BloodVitalityScale"/>
+                        <attribute id="UUID" type="guid" value="8b9a99c7-ddb0-4291-a938-565d351655ea"/>
+                    </node>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

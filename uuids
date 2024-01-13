@@ -1,7 +1,8 @@
 mod UUID: 65cb95be-5999-4165-ad50-38b97dfb8416
 subclass UUID: 6eba49be-a5c7-431f-857d-b4576d453e56
 progression table UUID: 7466a2f2-fef3-47cd-a1e4-519aa5e0186e
-ProgressionsDescriptions.lsx ID: 60bbcc97-5381-4898-bc15-908c072895de
+ProgressionsDescriptions.lsx UUID: 60bbcc97-5381-4898-bc15-908c072895de
+LevelMapValues.lsx UUID: 8b9a99c7-ddb0-4291-a938-565d351655ea
 
 Progressions.lsx lv1 UUID: 94dcd468-bf05-47e8-baec-de2aa7c53ca0
 Progressions.lsx lv3 UUID: 843ec01a-941d-4aeb-a14e-d65fdc4f1fe5
