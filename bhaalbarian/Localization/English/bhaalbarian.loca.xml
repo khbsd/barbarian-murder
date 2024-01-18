@@ -6,7 +6,7 @@
 
     <!--Attacks-->
     <content contentuid="KHB_RaggedClaws_DisplayName" version="1">Ragged Claws</content>
-    <content contentuid="KHB_RaggedClaws_Description" version="1">Your nails have grown to relish blood and violence as much as you do. Make an attack ([1]) with your little homegrown meatcarvers. Weirdo. I bet you think pickles are good when you chop them up ([2]) and use them as a topping.</content>
+    <content contentuid="KHB_RaggedClaws_Description" version="1">Your nails have grown to relish blood and violence as much as you do. Make two unarmed melee attacks ([1] and [2]) with your little homegrown meatcarvers. Weirdo. I bet you think pickles are good when you chop them up ([3]) and use them as a topping. If it &lt;LSTag Tooltip="CriticalHit"&gt;tastes good&lt;/LSTag&gt;, get some ketchup ([4].)</content>
     <content contentuid="KHB_EatYourHeartOutSlayer_DisplayName" version="1">Eat Your Heart Out</content>
     <content contentuid="KHB_EatYourHeartOutSlayer_Description" version="1">Use your jaws and claws to attempt to rip out your target's heart. They must succeed against a +[1] Constitution &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;; on a failure, they are killed instantly. On a success, they take [2] and become &lt;LSTag Type="Status" Tooltip="KHB_Aortal_Hemorrhage"&gt;Hemorrhaged&lt;/LSTag&gt;.</content>
     <content contentuid="KHB_SlayWhatYou_DisplayName" version="1">Slay What You Mean to Slay</content>
@@ -22,8 +22,8 @@
     <content contentuid="KHB_AllClottedUp_DisplayName" version="1">All Clotted Up</content>
     <content contentuid="KHB_AllClottedUp_Description" version="1">Blood fills your pores and seeps between the layers of your skin, then clots up. While not wearing armor, your AC becomes [1] plus your Strength and Constitution modifiers.</content>
     <content contentuid="KHB_BloodVitality_DisplayName" version="1">Blood Vitality</content>
-    <content contentuid="KHB_BloodVitality_Description" version="1">You get some freaky joy from blood between your toes. When you enter a blood surface, you soak it up and regain [1].</content>
-    <content contentuid="KHB_BloodVitalitySlayer_Description" version="1">You get some freaky joy from blood between your clawed toes. When you enter a blood surface, you soak it up and regain hit points equal to [1]. </content>
+    <content contentuid="KHB_BloodVitality_Description" version="1">You get some freaky joy from blood between your toes. Once per turn, when you enter a blood surface, you soak it up and regain [1].</content>
+    <content contentuid="KHB_BloodVitalitySlayer_Description" version="1">You get some freaky joy from blood between your clawed toes. Once per turn, when you enter a blood surface, you soak it up and regain hit points equal to [1]. </content>
     <content contentuid="KHB_BloodVitalitySlayer12_Description" version="1">You get some freaky joy from blood between your big-ass clawed toes. When you enter a blood surface, you soak it up and regain [1].</content>
     <content contentuid="KHB_BloodVitality_ExtraDescription" version="1">&lt;i&gt;slurp slurp&lt;/i&gt;</content>
     <content contentuid="KHB_SanguineCritical_DisplayName" version="1">Sanguine Critical</content>
@@ -31,9 +31,9 @@
     <content contentuid="KHB_Vitalmins_DisplayName" version="1">Vitalmins</content>
     <content contentuid="KHB_Vitalmins_Description" version="1">Sometimes killing just really gets you going. It's like eating your vitamins. Once per turn, if your &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt; kills your target, you regain [1] &lt;LSTag Type="ActionResource" Tooltip="ActionPoint"&gt;action point&lt;/LSTag&gt;.</content>
     <content contentuid="KHB_RaggedierClaws_DisplayName" version="1">Raggedier Claws</content>
-    <content contentuid="KHB_RaggedierClaws_Description" version="1">Your nails mustard the strength to pierce enemy resistance and immunity to Slashing damage.</content>
+    <content contentuid="KHB_RaggedierClaws_Description" version="1">Your nails mustard the strength to pierce enemy resistance and immunity to Slashing damage. They're also longer, increasing your melee attack range to [1]m, and add twice your Strength modifier to your damage rolls.</content>
     <content contentuid="KHB_BloodBoiling_DisplayName" version="1">Boiling Blood</content>
-    <content contentuid="KHB_BloodBoiling_Description" version="1">Your blood roils and steams withing your veins, causing your unarmed attacks to deal an extra [1].</content>
+    <content contentuid="KHB_BloodBoiling_Description" version="1">Your blood roils and steams withing your veins, causing your unarmed attacks to deal an extra [1], and granting you an extra [2]m &lt;LSTag Tooltip="MovementSpeed"&gt;movement speed&lt;/LSTag&gt;.</content>
     <content contentuid="KHB_Resorber_DisplayName" version="1">Resorber</content>
     <content contentuid="KHB_Resorber_Description" version="1">So starved for blood is your spirit, even your spilt blood nourishes you, healing your rent flesh and providing Resistance to Slashing Damage.</content>
     <content contentuid="KHB_Resorber_ExtraDescription" version="1">&lt;b&gt;fuck it we bhaal&lt;/b&gt;&lt;br&gt;&lt;i&gt;-Pineapple, probably&lt;/i&gt;</content>
