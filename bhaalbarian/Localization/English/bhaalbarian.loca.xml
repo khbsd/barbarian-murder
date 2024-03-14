@@ -48,7 +48,7 @@
 
     <!--Shouts-->
     <content contentuid="KHB_HematocriticRage_DisplayName" version="1">Hematocritic Rage</content>
-    <content contentuid="KHB_HematocriticRage_Description" version="1">Let that freaky joy I was talking about loose; you take [4], and terrify your enemies when they realize you are not equal combatants: you are the predator, and they are the prey. Enemies within [2] become &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Frightened&lt;/LSTag&gt; for [3] rounds.</content>
+    <content contentuid="KHB_HematocriticRage_Description" version="1">Let that freaky joy I was talking about loose; a frothing hunger erupts from your lips and terrifies your enemies when they realize you are not equal combatants: you are the predator, and they are the prey. Enemies within [2] become &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Frightened&lt;/LSTag&gt; for [3] rounds.</content>
     <content contentuid="KHB_HearteaterSlayer_DisplayName" version="1">Hearteater Slayer Form</content>
     <content contentuid="KHB_HearteaterSlayerDismiss_DisplayName" version="1">Hearteater Slayer Dismiss</content>
     <content contentuid="KHB_HearteaterSlayer_Description" version="1">The terrible purpose within bursts out of you, remaking you so that you may remake the world. Let the gods tremble at your approach; rip and tear, until it is complete.</content>
