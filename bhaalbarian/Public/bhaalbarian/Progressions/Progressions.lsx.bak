@@ -42,7 +42,7 @@
                     <attribute id="Name" type="LSString" value="Hearteater"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="PassivesRemoved" type="LSString" value="UnarmouredDefence_Barbarian;RageUnlock;RecklessAttack"/>
-                    <attribute id="PassivesAdded" type="LSString" value="KHB_AllClottedUp_Passive;KHB_Unlock_RaggedClaws_Passive;KHB_HematocriticRage_Unlock;KHB_BleedingEdge_Unlock;KHB_PetPalToggle;KHB_BloodVitality_Passive"/>
+                    <attribute id="PassivesAdded" type="LSString" value="KHB_AllClottedUp_Passive;KHB_Unlock_RaggedClaws_Passive;KHB_GiveMeYourBloodlv3_Passive;KHB_BloodVitality_Passive;KHB_HematocriticRage_Unlock;KHB_BloodBoiling_Passive;KHB_BleedingEdge_Unlock;KHB_SanguineCritical_Passive;KHB_PetPalToggle"/>
                     <attribute id="Boosts" type="LSString" value="IncreaseMaxHP(10)"/>
                     <attribute id="TableUUID" type="guid" value="7466a2f2-fef3-47cd-a1e4-519aa5e0186e"/>
                     <attribute id="UUID" type="guid" value="843ec01a-941d-4aeb-a14e-d65fdc4f1fe5"/>
@@ -51,7 +51,7 @@
                     <attribute id="Level" type="uint8" value="4"/>
                     <attribute id="Name" type="LSString" value="Hearteater"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="PassivesAdded" type="LSString" value="KHB_Unlock_RupturingLeap"/>
+                    <attribute id="PassivesAdded" type="LSString" value="KHB_HematophagicResorber_Passive;KHB_Unlock_RupturingLeap"/>
                     <attribute id="TableUUID" type="guid" value="7466a2f2-fef3-47cd-a1e4-519aa5e0186e"/>
                     <attribute id="UUID" type="guid" value="22ad89f0-74bb-453d-b1bc-7a46acde60ba"/>
                 </node>
@@ -59,8 +59,8 @@
                     <attribute id="Level" type="uint8" value="6"/>
                     <attribute id="Name" type="LSString" value="Hearteater"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="PassivesRemoved" type="LSString" value=""/>
-                    <attribute id="PassivesAdded" type="LSString" value="KHB_Unlock_SlayerForm_6_Passive;KHB_Unlock_SlayerForm_Dismiss_Passive;KHB_Unlock_Bloodcurdler;KHB_SanguineCritical_Passive"/>
+                    <attribute id="PassivesRemoved" type="LSString" value="KHB_GiveMeYourBloodlv3_Passive;KHB_BloodVitality_Passive"/>
+                    <attribute id="PassivesAdded" type="LSString" value="KHB_GiveMeYourBloodlv6_Passive;KHB_Unlock_SlayerForm_6_Passive;KHB_Unlock_SlayerForm_Dismiss_Passive;KHB_Unlock_Bloodcurdler;KHB_BloodVitality6_Passive"/>
                     <attribute id="Boosts" type="LSString" value="IncreaseMaxHP(10)"/>
                     <attribute id="TableUUID" type="guid" value="7466a2f2-fef3-47cd-a1e4-519aa5e0186e"/>
                     <attribute id="UUID" type="guid" value="fd96830e-61af-4814-a421-58a0aed9e137"/>
@@ -69,7 +69,7 @@
                     <attribute id="Level" type="uint8" value="8"/>
                     <attribute id="Name" type="LSString" value="Hearteater"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="PassivesAdded" type="LSString" value="KHB_GiveMeYourBloodlv3_Passive"/>
+                    <attribute id="PassivesAdded" type="LSString" value="KHB_Umbrapaxic_Passive"/>
                     <attribute id="TableUUID" type="guid" value="7466a2f2-fef3-47cd-a1e4-519aa5e0186e"/> 
                     <attribute id="UUID" type="guid" value="2177abb7-21bf-45b3-8308-789dd2f52da8"/>
                 </node>
@@ -77,9 +77,9 @@
                     <attribute id="Level" type="uint8" value="9"/>
                     <attribute id="Name" type="LSString" value="Hearteater"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="PassivesRemoved" type="LSString" value=""/>
-                    <attribute id="PassivesAdded" type="LSString" value="KHB_Umbrapaxic_Passive"/>
-                    <attribute id="Boosts" type="LSString" value=""/>
+                    <attribute id="PassivesRemoved" type="LSString" value="KHB_GiveMeYourBloodlv6_Passive"/>
+                    <attribute id="PassivesAdded" type="LSString" value="KHB_GiveMeYourBloodlv9_Passive"/>
+                    <attribute id="Boosts" type="LSString" value="IncreaseMaxHP(10)"/>
                     <attribute id="TableUUID" type="guid" value="7466a2f2-fef3-47cd-a1e4-519aa5e0186e"/>
                     <attribute id="UUID" type="guid" value="445f6aa6-540a-4a34-8b2d-7f8a7ce3e143"/>
                 </node>
@@ -88,7 +88,7 @@
                     <attribute id="Name" type="LSString" value="Hearteater"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
-                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="PassivesAdded" type="LSString" value="KHB_Unlock_UmbrapaxicIntent"/>
                     <attribute id="TableUUID" type="guid" value="7466a2f2-fef3-47cd-a1e4-519aa5e0186e"/>
                     <attribute id="UUID" type="guid" value="07487186-423b-452c-afea-04d158ec9e9e"/>
                 </node>
@@ -105,9 +105,9 @@
                     <attribute id="Level" type="uint8" value="12"/>
                     <attribute id="Name" type="LSString" value="Hearteater"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="PassivesRemoved" type="LSString" value="KHB_Unlock_SlayerForm_6_Passive;"/>
-                    <attribute id="PassivesAdded" type="LSString" value="KHB_Unlock_RaggedierClaws_Passive;KHB_Unlock_SlayerForm_12_Passive;KHB_Unlock_Hearteater;"/>
-                    <attribute id="Boosts" type="LSString" value=""/>
+                    <attribute id="PassivesRemoved" type="LSString" value="KHB_GiveMeYourBloodlv9_Passive; KHB_Unlock_SlayerForm_6_Passive;KHB_HematophagicResorber_Passive;"/>
+                    <attribute id="PassivesAdded" type="LSString" value="KHB_GiveMeYourBloodlv12_Passive;KHB_Unlock_RaggedierClaws_Passive;KHB_Unlock_SlayerForm_12_Passive;KHB_HematophagicResorber2_Passive;KHB_Unlock_Hearteater;KHB_Vitalmins_Passive"/>
+                    <attribute id="Boosts" type="LSString" value="IncreaseMaxHP(20)"/>
                     <attribute id="TableUUID" type="guid" value="7466a2f2-fef3-47cd-a1e4-519aa5e0186e"/>
                     <attribute id="UUID" type="guid" value="0936ad3f-df96-41a6-a112-185bda4f9471"/>
                 </node>
