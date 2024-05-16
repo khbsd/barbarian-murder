@@ -43,7 +43,7 @@
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="PassivesRemoved" type="LSString" value="UnarmouredDefence_Barbarian;RageUnlock;RecklessAttack"/>
                     <attribute id="PassivesAdded" type="LSString" value="KHB_AllClottedUp_Passive;KHB_Unlock_RaggedClaws_Passive;KHB_HematocriticRage_Unlock;KHB_BleedingEdge_Unlock;KHB_PetPalToggle;KHB_BloodVitality_Passive"/>
-                    <attribute id="Boosts" type="LSString" value="IncreaseMaxHP(10)"/>
+                    <attribute id="Boosts" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="7466a2f2-fef3-47cd-a1e4-519aa5e0186e"/>
                     <attribute id="UUID" type="guid" value="843ec01a-941d-4aeb-a14e-d65fdc4f1fe5"/>
                 </node>
@@ -61,7 +61,7 @@
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="PassivesAdded" type="LSString" value="KHB_Unlock_SlayerForm_6_Passive;KHB_Unlock_SlayerForm_Dismiss_Passive;KHB_Unlock_Bloodcurdler;KHB_SanguineCritical_Passive"/>
-                    <attribute id="Boosts" type="LSString" value="IncreaseMaxHP(10)"/>
+                    <attribute id="Boosts" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="7466a2f2-fef3-47cd-a1e4-519aa5e0186e"/>
                     <attribute id="UUID" type="guid" value="fd96830e-61af-4814-a421-58a0aed9e137"/>
                 </node>
