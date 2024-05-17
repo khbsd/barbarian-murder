@@ -31,12 +31,12 @@
     <content contentuid="KHB_Vitalmins_DisplayName" version="1">Vitalmins</content>
     <content contentuid="KHB_Vitalmins_Description" version="1">Sometimes killing just really gets you going. It's like eating your vitamins. Once per turn, if your &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt; kills your target, you regain [1] &lt;LSTag Type="ActionResource" Tooltip="ActionPoint"&gt;action point&lt;/LSTag&gt;.</content>
     <content contentuid="KHB_RaggedierClaws_DisplayName" version="1">Raggedier Claws</content>
-    <content contentuid="KHB_RaggedierClaws_Description" version="1">Your nails mustard the strength to pierce enemy resistance and immunity to Slashing damage. They're also longer, increasing your melee attack range to [1]m, and add twice your Strength modifier to your damage rolls.</content>
+    <content contentuid="KHB_RaggedierClaws_Description" version="1">Your nails mustard the strength to pierce enemy resistance and immunity to Slashing damage, and you add twice your Strength modifier to your damage rolls.</content>
+    <content contentuid="KHB_RaggedierClaws_ExtraDescription" version="1">&lt;b&gt;fuck it we bhaal&lt;/b&gt;&lt;br&gt;&lt;i&gt;-Pineapple, probably&lt;/i&gt;</content>
     <content contentuid="KHB_BloodBoiling_DisplayName" version="1">Boiling Blood</content>
     <content contentuid="KHB_BloodBoiling_Description" version="1">Your blood roils and steams withing your veins, causing your unarmed attacks to deal an extra [1], and granting you an extra [2]m &lt;LSTag Tooltip="MovementSpeed"&gt;movement speed&lt;/LSTag&gt;.</content>
     <content contentuid="KHB_Resorber_DisplayName" version="1">Resorber</content>
     <content contentuid="KHB_Resorber_Description" version="1">So starved for blood is your spirit, even your spilt blood nourishes you, healing your rent flesh and providing Resistance to Slashing Damage.</content>
-    <content contentuid="KHB_Resorber_ExtraDescription" version="1">&lt;b&gt;fuck it we bhaal&lt;/b&gt;&lt;br&gt;&lt;i&gt;-Pineapple, probably&lt;/i&gt;</content>
     <content contentuid="KHB_Umbrapaxic_DisplayName" version="1">Umbrapaxic</content>
     <content contentuid="KHB_Umbrapaxic_Description" version="1">After you kill an enemy, become &lt;LSTag Type="Status" Tooltip="INVISIBILITY"&gt;Invisible&lt;/LSTag&gt; for [1] turns.</content>
     <content contentuid="KHB_Umbrapaxic_ExtraDescription" version="1">&lt;i&gt;&lt;br&gt;Lambert: I can't see a goddamn thing.&lt;br&gt;Kane: Quit griping.&lt;br&gt;Lambert: I like griping.&lt;/i&gt;</content>
@@ -48,7 +48,7 @@
 
     <!--Shouts-->
     <content contentuid="KHB_HematocriticRage_DisplayName" version="1">Hematocritic Rage</content>
-    <content contentuid="KHB_HematocriticRage_Description" version="1">Let that freaky joy I was talking about loose; a frothing hunger erupts from your lips and terrifies your enemies when they realize you are not equal combatants: you are the predator, and they are the prey. Enemies within [2] become &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Frightened&lt;/LSTag&gt; for [3] rounds.</content>
+    <content contentuid="KHB_HematocriticRage_Description" version="1">Let that freaky joy I was talking about loose; a frothing hunger erupts from your lips and terrifies your enemies when they realize you are not equal combatants: you are the predator, and they are the prey. Enemies within [2]m become &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Frightened&lt;/LSTag&gt; for [3] round.</content>
     <content contentuid="KHB_HearteaterSlayer_DisplayName" version="1">Hearteater Slayer Form</content>
     <content contentuid="KHB_HearteaterSlayerDismiss_DisplayName" version="1">Hearteater Slayer Dismiss</content>
     <content contentuid="KHB_HearteaterSlayer_Description" version="1">The terrible purpose within bursts out of you, remaking you so that you may remake the world. Let the gods tremble at your approach; rip and tear, until it is complete.</content>
