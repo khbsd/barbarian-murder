@@ -129,7 +129,7 @@ data "Boosts" "ACOverrideFormula(11,true,Strength,Constitution);Advantage(Abilit
 new entry "KHB_Unlock_RaggedClaws_Passive"
 type "PassiveData"
 data "Properties" "Hidden"
-data "Boosts" "UnlockSpell(KHB_RaggedClaws_Attack);ProficiencyBonus(Skill,Medicine);ProficiencyBonus(Skill,Intimidation);IF(IsMeleeUnarmedAttack()):RollBonus(Attack, ProficiencyBonus)"
+data "Boosts" "UnlockSpell(KHB_RaggedClaws_Attack);ProficiencyBonus(Skill,Medicine);AttackSpellOverride(KHB_RaggedClaws_Attack, Target_UnarmedAttack);ProficiencyBonus(Skill,Intimidation);IF(IsMeleeUnarmedAttack()):RollBonus(Attack, ProficiencyBonus)"
 
 new entry "KHB_Unlock_RaggedierClaws_Passive"
 type "PassiveData"
@@ -138,7 +138,7 @@ data "Description" "KHB_RaggedierClaws_Description;4"
 data "DescriptionParams" "2.5"
 data "Icon" "Ragged_Claws"
 data "Properties" "Highlighted"
-data "Boosts" "IF(IsMeleeUnarmedAttack()):DamageBonus(StrengthModifier * 2, Slashing, Slashing);UnlockSpellVariant(SpellId('KHB_RaggedClaws_Attack'),ModifyTargetRadius(Override, 2.5));IgnoreResistance(Slashing, Resistant);IgnoreResistance(Slashing, Immune)"
+data "Boosts" "IF(IsMeleeUnarmedAttack()):DamageBonus(StrengthModifier * 2, Slashing);UnarmedMagicalProperty();UnlockSpellVariant(SpellId('KHB_RaggedClaws_Attack'),ModifyTargetRadius(Override, 2.5));IgnoreResistance(Slashing, Resistant);IgnoreResistance(Slashing, Immune)"
 
 new entry "KHB_Unlock_Bloodcurdler"
 type "PassiveData"
