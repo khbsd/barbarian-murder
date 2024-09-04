@@ -130,7 +130,7 @@ data "Description" "KHB_RaggedClaws_Description;2"
 data "DescriptionParams" "DealDamage(UnarmedDamage + 1d6, Slashing);DealDamage(UnarmedDamage + 1d4, Slashing);RegainHitPoints(1d4)"
 data "Icon" "Ragged_Claws"
 data "Properties" "Highlighted"
-data "Boosts" "UnlockSpell(KHB_RaggedClaws_Attack);AttackSpellOverride(KHB_RaggedClaws_Attack, Target_UnarmedAttack)ProficiencyBonus(Skill,Intimidation);"
+data "Boosts" "UnlockSpell(KHB_RaggedClaws_Attack);AttackSpellOverride(KHB_RaggedClaws_Attack, Target_UnarmedAttack);ProficiencyBonus(Skill,Intimidation);"
 
 new entry "KHB_Unlock_RaggedierClaws_Passive"
 type "PassiveData"
